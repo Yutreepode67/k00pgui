@@ -1,0 +1,2767 @@
+
+local Instances = {
+	ScreenGui = Instance.new("ScreenGui"),
+	V11 = Instance.new("ScrollingFrame"),
+	TextLabel = Instance.new("TextLabel"),
+	TextLabel_2 = Instance.new("TextLabel"),
+	TextLabel_3 = Instance.new("TextLabel"),
+	are_6 = Instance.new("TextButton"),
+	RemoteEvent = Instance.new("RemoteEvent"),
+	Kick_da_bells = Instance.new("TextButton"),
+	Decal = Instance.new("TextButton"),
+	sk_y = Instance.new("TextButton"),
+	H_int = Instance.new("TextButton"),
+	part = Instance.new("TextButton"),
+	Decal_2 = Instance.new("TextButton"),
+	Decal_3 = Instance.new("TextButton"),
+	Decal_4 = Instance.new("TextButton"),
+	Realm = Instance.new("TextButton"),
+	RemoteEvent_2 = Instance.new("RemoteEvent"),
+	Decal_5 = Instance.new("TextButton"),
+	Unanhcor = Instance.new("TextButton"),
+	H_int = Instance.new("TextButton"),
+	Kill_al = Instance.new("TextButton"),
+	Sky = Instance.new("TextButton"),
+	Kick_da_bells = Instance.new("TextButton"),
+	Disco = Instance.new("TextButton"),
+	Decal_6 = Instance.new("TextButton"),
+	FakeMouse = Instance.new("ModuleScript"),
+	GetPlr = Instance.new("RemoteEvent"),
+	GetPlrE = Instance.new("RemoteFunction"),
+	Humus = Instance.new("TextButton"),
+	RemoteEvent_3 = Instance.new("RemoteEvent"),
+	Realm_2 = Instance.new("TextButton"),
+	RemoteEvent_4 = Instance.new("RemoteEvent"),
+	Relm = Instance.new("TextButton"),
+	Decal_7 = Instance.new("TextButton"),
+	H_int = Instance.new("TextButton"),
+	H_int = Instance.new("TextButton"),
+	RemoteEvent_5 = Instance.new("RemoteEvent"),
+	Decal_8 = Instance.new("TextButton"),
+	RemoteEvent_6 = Instance.new("RemoteEvent"),
+	sk_y = Instance.new("TextButton"),
+	H_int = Instance.new("TextButton"),
+	Message = Instance.new("TextButton"),
+	Message_2 = Instance.new("TextButton"),
+	H_int = Instance.new("TextButton"),
+	Decal_9 = Instance.new("TextButton"),
+	part_2 = Instance.new("TextButton"),
+	Message_3 = Instance.new("TextButton"),
+	Decal_10 = Instance.new("TextButton"),
+	RemoteEvent_7 = Instance.new("RemoteEvent"),
+	are_6 = Instance.new("TextButton"),
+	RemoteEvent_8 = Instance.new("RemoteEvent"),
+	Message_4 = Instance.new("TextButton"),
+	re_4 = Instance.new("TextButton"),
+	Humus_2 = Instance.new("TextButton"),
+	H_int = Instance.new("TextButton"),
+	are_6 = Instance.new("TextButton"),
+	s_ky = Instance.new("TextButton"),
+	H_int = Instance.new("TextButton"),
+	RemoteEvent_9 = Instance.new("RemoteEvent"),
+	sk_y = Instance.new("TextButton"),
+	H_int = Instance.new("TextButton"),
+	Decal_11 = Instance.new("TextButton"),
+	H_int = Instance.new("TextButton"),
+	re_6 = Instance.new("TextButton"),
+	RemoteEvent_10 = Instance.new("RemoteEvent"),
+	re_7 = Instance.new("TextButton"),
+	RemoteEvent_11 = Instance.new("RemoteEvent"),
+	Kick_da_bells = Instance.new("TextButton"),
+	RemoteEvent_12 = Instance.new("RemoteEvent"),
+	H_int = Instance.new("TextButton"),
+	RemoteEvent_13 = Instance.new("RemoteEvent"),
+	Humus_3 = Instance.new("TextButton"),
+	Decal_12 = Instance.new("TextButton"),
+	Message_5 = Instance.new("TextButton"),
+	s_ky = Instance.new("TextButton"),
+	Decal_13 = Instance.new("TextButton"),
+	RemoteEvent_14 = Instance.new("RemoteEvent"),
+	Kick_da_bells = Instance.new("TextButton"),
+	Kick_da_bells = Instance.new("TextButton"),
+	RemoteEvent_15 = Instance.new("RemoteEvent"),
+	Humus_4 = Instance.new("TextButton"),
+	H_int = Instance.new("TextButton"),
+	RemoteEvent_16 = Instance.new("RemoteEvent"),
+	Decal_14 = Instance.new("TextButton"),
+	RemoteEvent_17 = Instance.new("RemoteEvent"),
+	Decal_15 = Instance.new("TextButton"),
+	RemoteEvent_18 = Instance.new("RemoteEvent"),
+	re_8 = Instance.new("TextButton"),
+	Kick_da_bells = Instance.new("TextButton"),
+	Message_6 = Instance.new("TextButton"),
+	H_int = Instance.new("TextButton"),
+	Message_7 = Instance.new("TextButton"),
+	H_int = Instance.new("TextButton"),
+	TextLabel_4 = Instance.new("TextLabel"),
+	TextLabel_5 = Instance.new("TextLabel"),
+	song = Instance.new("TextLabel"),
+}
+
+Instances.ScreenGui.Name = "ScreenGui"
+Instances.ScreenGui.Parent = game.Workspace
+
+Instances.V11.Name = "V11"
+Instances.V11.Active = true
+Instances.V11.Size = UDim2.new(0, 463, 0, 719)
+Instances.V11.BorderColor3 = Color3.new(0, 0, 0)
+Instances.V11.BorderSizePixel = 5
+Instances.V11.Position = UDim2.new(0.0145921754, 0, 0.120557345, 0)
+Instances.V11.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.V11.ScrollBarImageColor3 = Color3.new(0, 0, 0)
+Instances.V11.Parent = Instances.ScreenGui
+
+Instances.TextLabel.Name = "TextLabel"
+Instances.TextLabel.Size = UDim2.new(0, 200, 0, 50)
+Instances.TextLabel.BorderColor3 = Color3.new(0, 0, 0)
+Instances.TextLabel.BorderSizePixel = 0
+Instances.TextLabel.Position = UDim2.new(0.282937378, 0, 0.0305980537, 0)
+Instances.TextLabel.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.TextLabel.TextColor3 = Color3.new(1, 1, 1)
+Instances.TextLabel.Text = "K00pgui v11"
+Instances.TextLabel.FontFace = Font.new("rbxasset://fonts/families/Arial.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.TextLabel.TextWrapped = true
+Instances.TextLabel.TextScaled = true
+Instances.TextLabel.Parent = Instances.V11
+
+Instances.TextLabel_2.Name = "TextLabel"
+Instances.TextLabel_2.Size = UDim2.new(0, 200, 0, 22)
+Instances.TextLabel_2.BorderColor3 = Color3.new(0, 0, 0)
+Instances.TextLabel_2.BorderSizePixel = 0
+Instances.TextLabel_2.Position = UDim2.new(0, 0, 1.20000005, 0)
+Instances.TextLabel_2.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.TextLabel_2.TextColor3 = Color3.new(1, 1, 1)
+Instances.TextLabel_2.Text = "By @k**pk**dAlt"
+Instances.TextLabel_2.FontFace = Font.new("rbxasset://fonts/families/Arial.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.TextLabel_2.Parent = Instances.TextLabel
+
+Instances.TextLabel_3.Name = "TextLabel"
+Instances.TextLabel_3.Size = UDim2.new(0, 200, 0, 23)
+Instances.TextLabel_3.BorderColor3 = Color3.new(0, 0, 0)
+Instances.TextLabel_3.BorderSizePixel = 0
+Instances.TextLabel_3.Position = UDim2.new(0, 0, 1, 0)
+Instances.TextLabel_3.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.TextLabel_3.TextColor3 = Color3.new(1, 1, 1)
+Instances.TextLabel_3.Text = "[Team k**pk*ld*d]"
+Instances.TextLabel_3.FontFace = Font.new("rbxasset://fonts/families/Arial.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.TextLabel_3.Parent = Instances.TextLabel_2
+
+Instances.are_6.Name = "are 6"
+Instances.are_6.AutoButtonColor = true
+Instances.are_6.Size = UDim2.new(0, 50, 0, 29)
+Instances.are_6.BorderColor3 = Color3.new(0, 0, 0)
+Instances.are_6.Position = UDim2.new(-0.654999971, 0, -5.7391305, 0)
+Instances.are_6.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.are_6.TextColor3 = Color3.new(1, 1, 1)
+Instances.are_6.Text = "R6"
+Instances.are_6.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.are_6.TextWrapped = true
+Instances.are_6.TextScaled = true
+Instances.are_6.Parent = Instances.TextLabel_3
+
+Instances.RemoteEvent.Name = "RemoteEvent"
+Instances.RemoteEvent.Parent = Instances.are_6
+
+Instances.Kick_da_bells.Name = "Kick da bells"
+Instances.Kick_da_bells.AutoButtonColor = true
+Instances.Kick_da_bells.Size = UDim2.new(0, 50, 0, 26)
+Instances.Kick_da_bells.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Kick_da_bells.Position = UDim2.new(-0.654999971, 0, -3.56521749, 0)
+Instances.Kick_da_bells.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Kick_da_bells.TextColor3 = Color3.new(1, 1, 1)
+Instances.Kick_da_bells.Text = "Play k00p's theme"
+Instances.Kick_da_bells.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Kick_da_bells.TextWrapped = true
+Instances.Kick_da_bells.TextScaled = true
+Instances.Kick_da_bells.Parent = Instances.TextLabel_3
+
+Instances.Decal.Name = "Decal"
+Instances.Decal.AutoButtonColor = true
+Instances.Decal.Size = UDim2.new(0, 101, 0, 34)
+Instances.Decal.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Decal.Position = UDim2.new(-0.340000004, 0, 1.30434787, 0)
+Instances.Decal.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Decal.TextColor3 = Color3.new(1, 1, 1)
+Instances.Decal.Text = "Decal"
+Instances.Decal.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Decal.TextWrapped = true
+Instances.Decal.TextScaled = true
+Instances.Decal.Parent = Instances.TextLabel_3
+
+Instances.sk_y.Name = "sk y"
+Instances.sk_y.AutoButtonColor = true
+Instances.sk_y.Size = UDim2.new(0, 101, 0, 34)
+Instances.sk_y.BorderColor3 = Color3.new(0, 0, 0)
+Instances.sk_y.Position = UDim2.new(0.25, 0, 1.30434787, 0)
+Instances.sk_y.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.sk_y.TextColor3 = Color3.new(1, 1, 1)
+Instances.sk_y.Text = "SkyBox"
+Instances.sk_y.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.sk_y.TextWrapped = true
+Instances.sk_y.TextScaled = true
+Instances.sk_y.Parent = Instances.TextLabel_3
+
+Instances.H_int.Name = "H int"
+Instances.H_int.AutoButtonColor = true
+Instances.H_int.Size = UDim2.new(0, 101, 0, 34)
+Instances.H_int.BorderColor3 = Color3.new(0, 0, 0)
+Instances.H_int.Position = UDim2.new(0.829999983, 0, 1.30434787, 0)
+Instances.H_int.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.H_int.TextColor3 = Color3.new(1, 1, 1)
+Instances.H_int.Text = "Hint"
+Instances.H_int.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.H_int.TextWrapped = true
+Instances.H_int.TextScaled = true
+Instances.H_int.Parent = Instances.TextLabel_3
+
+Instances.part.Name = "part"
+Instances.part.AutoButtonColor = true
+Instances.part.Size = UDim2.new(0, 101, 0, 34)
+Instances.part.BorderColor3 = Color3.new(0, 0, 0)
+Instances.part.Position = UDim2.new(-0.340000004, 0, 3.2608695, 0)
+Instances.part.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.part.TextColor3 = Color3.new(1, 1, 1)
+Instances.part.Text = "Particals"
+Instances.part.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.part.TextWrapped = true
+Instances.part.TextScaled = true
+Instances.part.Parent = Instances.TextLabel_3
+
+Instances.Decal_2.Name = "Decal"
+Instances.Decal_2.AutoButtonColor = true
+Instances.Decal_2.Size = UDim2.new(0, 101, 0, 34)
+Instances.Decal_2.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Decal_2.Position = UDim2.new(0.25, 0, 3.2608695, 0)
+Instances.Decal_2.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Decal_2.TextColor3 = Color3.new(1, 1, 1)
+Instances.Decal_2.Text = "666"
+Instances.Decal_2.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Decal_2.TextWrapped = true
+Instances.Decal_2.TextScaled = true
+Instances.Decal_2.Parent = Instances.TextLabel_3
+
+Instances.Decal_3.Name = "Decal"
+Instances.Decal_3.AutoButtonColor = true
+Instances.Decal_3.Size = UDim2.new(0, 101, 0, 34)
+Instances.Decal_3.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Decal_3.Position = UDim2.new(0.829999983, 0, 3.2608695, 0)
+Instances.Decal_3.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Decal_3.TextColor3 = Color3.new(1, 1, 1)
+Instances.Decal_3.Text = "Jumpscare"
+Instances.Decal_3.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Decal_3.TextWrapped = true
+Instances.Decal_3.TextScaled = true
+Instances.Decal_3.Parent = Instances.TextLabel_3
+
+Instances.Decal_4.Name = "Decal"
+Instances.Decal_4.AutoButtonColor = true
+Instances.Decal_4.Size = UDim2.new(0, 101, 0, 34)
+Instances.Decal_4.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Decal_4.Position = UDim2.new(-0.340000004, 0, 5.21739149, 0)
+Instances.Decal_4.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Decal_4.TextColor3 = Color3.new(1, 1, 1)
+Instances.Decal_4.Text = "Obunga Scares You"
+Instances.Decal_4.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Decal_4.TextWrapped = true
+Instances.Decal_4.TextScaled = true
+Instances.Decal_4.Parent = Instances.TextLabel_3
+
+Instances.Realm.Name = "Realm"
+Instances.Realm.AutoButtonColor = true
+Instances.Realm.Size = UDim2.new(0, 101, 0, 34)
+Instances.Realm.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Realm.Position = UDim2.new(0.25, 0, 5.21739149, 0)
+Instances.Realm.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Realm.TextColor3 = Color3.new(1, 1, 1)
+Instances.Realm.Text = "k**pk**d's realm and antileave"
+Instances.Realm.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Realm.TextWrapped = true
+Instances.Realm.TextScaled = true
+Instances.Realm.Parent = Instances.TextLabel_3
+
+Instances.RemoteEvent_2.Name = "RemoteEvent"
+Instances.RemoteEvent_2.Parent = Instances.Realm
+
+Instances.Decal_5.Name = "Decal"
+Instances.Decal_5.AutoButtonColor = true
+Instances.Decal_5.Size = UDim2.new(0, 101, 0, 34)
+Instances.Decal_5.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Decal_5.Position = UDim2.new(0.829999983, 0, 5.21739149, 0)
+Instances.Decal_5.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Decal_5.TextColor3 = Color3.new(1, 1, 1)
+Instances.Decal_5.Text = "Toadroast"
+Instances.Decal_5.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Decal_5.TextWrapped = true
+Instances.Decal_5.TextScaled = true
+Instances.Decal_5.Parent = Instances.TextLabel_3
+
+Instances.Unanhcor.Name = "Unanhcor"
+Instances.Unanhcor.AutoButtonColor = true
+Instances.Unanhcor.Size = UDim2.new(0, 101, 0, 34)
+Instances.Unanhcor.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Unanhcor.Position = UDim2.new(-0.340000004, 0, 7.30434799, 0)
+Instances.Unanhcor.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Unanhcor.TextColor3 = Color3.new(1, 1, 1)
+Instances.Unanhcor.Text = "Unanchor"
+Instances.Unanhcor.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Unanhcor.TextWrapped = true
+Instances.Unanhcor.TextScaled = true
+Instances.Unanhcor.Parent = Instances.TextLabel_3
+
+Instances.H_int.Name = "H int"
+Instances.H_int.AutoButtonColor = true
+Instances.H_int.Size = UDim2.new(0, 101, 0, 34)
+Instances.H_int.BorderColor3 = Color3.new(0, 0, 0)
+Instances.H_int.Position = UDim2.new(0.25, 0, 7.30434799, 0)
+Instances.H_int.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.H_int.TextColor3 = Color3.new(1, 1, 1)
+Instances.H_int.Text = "Explode Random"
+Instances.H_int.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.H_int.TextWrapped = true
+Instances.H_int.TextScaled = true
+Instances.H_int.Parent = Instances.TextLabel_3
+
+Instances.Kill_al.Name = "Kill al"
+Instances.Kill_al.AutoButtonColor = true
+Instances.Kill_al.Size = UDim2.new(0, 101, 0, 34)
+Instances.Kill_al.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Kill_al.Position = UDim2.new(0.829999983, 0, 7.21739149, 0)
+Instances.Kill_al.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Kill_al.TextColor3 = Color3.new(1, 1, 1)
+Instances.Kill_al.Text = "Kill them all"
+Instances.Kill_al.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Kill_al.TextWrapped = true
+Instances.Kill_al.TextScaled = true
+Instances.Kill_al.Parent = Instances.TextLabel_3
+
+Instances.Sky.Name = "Sky"
+Instances.Sky.AutoButtonColor = true
+Instances.Sky.Size = UDim2.new(0, 101, 0, 34)
+Instances.Sky.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Sky.Position = UDim2.new(-0.340000004, 0, 9.21739101, 0)
+Instances.Sky.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Sky.TextColor3 = Color3.new(1, 1, 1)
+Instances.Sky.Text = "Fire Rain"
+Instances.Sky.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Sky.TextWrapped = true
+Instances.Sky.TextScaled = true
+Instances.Sky.Parent = Instances.TextLabel_3
+
+Instances.Kick_da_bells.Name = "Kick da bells"
+Instances.Kick_da_bells.AutoButtonColor = true
+Instances.Kick_da_bells.Size = UDim2.new(0, 101, 0, 34)
+Instances.Kick_da_bells.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Kick_da_bells.Position = UDim2.new(0.25, 0, 9.21739101, 0)
+Instances.Kick_da_bells.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Kick_da_bells.TextColor3 = Color3.new(1, 1, 1)
+Instances.Kick_da_bells.Text = "Kick em all"
+Instances.Kick_da_bells.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Kick_da_bells.TextWrapped = true
+Instances.Kick_da_bells.TextScaled = true
+Instances.Kick_da_bells.Parent = Instances.TextLabel_3
+
+Instances.Disco.Name = "Disco"
+Instances.Disco.AutoButtonColor = true
+Instances.Disco.Size = UDim2.new(0, 101, 0, 34)
+Instances.Disco.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Disco.Position = UDim2.new(0.829999983, 0, 9.21739101, 0)
+Instances.Disco.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Disco.TextColor3 = Color3.new(1, 1, 1)
+Instances.Disco.Text = "Smooth Disco"
+Instances.Disco.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Disco.TextWrapped = true
+Instances.Disco.TextScaled = true
+Instances.Disco.Parent = Instances.TextLabel_3
+
+Instances.Decal_6.Name = "Decal"
+Instances.Decal_6.AutoButtonColor = true
+Instances.Decal_6.Size = UDim2.new(0, 101, 0, 34)
+Instances.Decal_6.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Decal_6.Position = UDim2.new(-0.340000004, 0, 11.26087, 0)
+Instances.Decal_6.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Decal_6.TextColor3 = Color3.new(1, 1, 1)
+Instances.Decal_6.Text = "Insert Anti-Leave [Does it to you to]"
+Instances.Decal_6.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Decal_6.TextWrapped = true
+Instances.Decal_6.TextScaled = true
+Instances.Decal_6.Parent = Instances.TextLabel_3
+
+Instances.FakeMouse.Name = "FakeMouse"
+Instances.FakeMouse.Parent = game.Workspace.ScreenGui.V11.TextLabel.TextLabel.TextLabel.Decal.ServerEventHandler
+
+Instances.GetPlr.Name = "GetPlr"
+Instances.GetPlr.Parent = Instances.FakeMouse
+
+Instances.GetPlrE.Name = "GetPlrE"
+Instances.GetPlrE.Parent = Instances.FakeMouse
+
+Instances.Humus.Name = "Humus"
+Instances.Humus.AutoButtonColor = true
+Instances.Humus.Size = UDim2.new(0, 101, 0, 34)
+Instances.Humus.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Humus.Position = UDim2.new(0.25, 0, 11.26087, 0)
+Instances.Humus.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Humus.TextColor3 = Color3.new(1, 1, 1)
+Instances.Humus.Text = "Thomas [R6 required]"
+Instances.Humus.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Humus.TextWrapped = true
+Instances.Humus.TextScaled = true
+Instances.Humus.Parent = Instances.TextLabel_3
+
+Instances.RemoteEvent_3.Name = "RemoteEvent"
+Instances.RemoteEvent_3.Parent = Instances.Humus
+
+Instances.Realm_2.Name = "Realm"
+Instances.Realm_2.AutoButtonColor = true
+Instances.Realm_2.Size = UDim2.new(0, 101, 0, 34)
+Instances.Realm_2.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Realm_2.Position = UDim2.new(0.829999983, 0, 11.26087, 0)
+Instances.Realm_2.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Realm_2.TextColor3 = Color3.new(1, 1, 1)
+Instances.Realm_2.Text = "Kick Yourself"
+Instances.Realm_2.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Realm_2.TextWrapped = true
+Instances.Realm_2.TextScaled = true
+Instances.Realm_2.Parent = Instances.TextLabel_3
+
+Instances.RemoteEvent_4.Name = "RemoteEvent"
+Instances.RemoteEvent_4.Parent = Instances.Realm_2
+
+Instances.Relm.Name = "Relm"
+Instances.Relm.AutoButtonColor = true
+Instances.Relm.Size = UDim2.new(0, 101, 0, 34)
+Instances.Relm.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Relm.Position = UDim2.new(-0.340000004, 0, 13.173913, 0)
+Instances.Relm.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Relm.TextColor3 = Color3.new(1, 1, 1)
+Instances.Relm.Text = "Color Spammer"
+Instances.Relm.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Relm.TextWrapped = true
+Instances.Relm.TextScaled = true
+Instances.Relm.Parent = Instances.TextLabel_3
+
+Instances.Decal_7.Name = "Decal"
+Instances.Decal_7.AutoButtonColor = true
+Instances.Decal_7.Size = UDim2.new(0, 101, 0, 34)
+Instances.Decal_7.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Decal_7.Position = UDim2.new(0.245000005, 0, 13.1980114, 0)
+Instances.Decal_7.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Decal_7.TextColor3 = Color3.new(1, 1, 1)
+Instances.Decal_7.Text = "Become k**pK**dAlt (name changes too)"
+Instances.Decal_7.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Decal_7.TextWrapped = true
+Instances.Decal_7.TextScaled = true
+Instances.Decal_7.Parent = Instances.TextLabel_3
+
+Instances.H_int.Name = "H int"
+Instances.H_int.AutoButtonColor = true
+Instances.H_int.Size = UDim2.new(0, 101, 0, 34)
+Instances.H_int.BorderColor3 = Color3.new(0, 0, 0)
+Instances.H_int.Position = UDim2.new(0.829999983, 0, 13.173913, 0)
+Instances.H_int.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.H_int.TextColor3 = Color3.new(1, 1, 1)
+Instances.H_int.Text = "Ambatakam sky"
+Instances.H_int.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.H_int.TextWrapped = true
+Instances.H_int.TextScaled = true
+Instances.H_int.Parent = Instances.TextLabel_3
+
+Instances.H_int.Name = "H int"
+Instances.H_int.AutoButtonColor = true
+Instances.H_int.Size = UDim2.new(0, 200, 0, 50)
+Instances.H_int.BorderColor3 = Color3.new(0, 0, 0)
+Instances.H_int.Position = UDim2.new(-0.340000004, 0, 15.26087, 0)
+Instances.H_int.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.H_int.TextColor3 = Color3.new(1, 1, 1)
+Instances.H_int.Text = "Destroy Complete [Only For Emergency]"
+Instances.H_int.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.H_int.TextWrapped = true
+Instances.H_int.TextScaled = true
+Instances.H_int.Parent = Instances.TextLabel_3
+
+Instances.RemoteEvent_5.Name = "RemoteEvent"
+Instances.RemoteEvent_5.Parent = Instances.H_int
+
+Instances.Decal_8.Name = "Decal"
+Instances.Decal_8.AutoButtonColor = true
+Instances.Decal_8.Size = UDim2.new(0, 116, 0, 50)
+Instances.Decal_8.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Decal_8.Position = UDim2.new(0.75, 0, 15.26087, 0)
+Instances.Decal_8.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Decal_8.TextColor3 = Color3.new(1, 1, 1)
+Instances.Decal_8.Text = "Infinite yield"
+Instances.Decal_8.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Decal_8.TextWrapped = true
+Instances.Decal_8.TextScaled = true
+Instances.Decal_8.Parent = Instances.TextLabel_3
+
+Instances.RemoteEvent_6.Name = "RemoteEvent"
+Instances.RemoteEvent_6.Parent = Instances.Decal_8
+
+Instances.sk_y.Name = "sk y"
+Instances.sk_y.AutoButtonColor = true
+Instances.sk_y.Size = UDim2.new(0, 110, 0, 48)
+Instances.sk_y.BorderColor3 = Color3.new(0, 0, 0)
+Instances.sk_y.Position = UDim2.new(0.449999988, 0, 45.217392, 0)
+Instances.sk_y.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.sk_y.TextColor3 = Color3.new(1, 1, 1)
+Instances.sk_y.Text = "Blood Blood Song"
+Instances.sk_y.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.sk_y.TextWrapped = true
+Instances.sk_y.TextScaled = true
+Instances.sk_y.Parent = Instances.TextLabel_3
+
+Instances.H_int.Name = "H int"
+Instances.H_int.AutoButtonColor = true
+Instances.H_int.Size = UDim2.new(0, 101, 0, 34)
+Instances.H_int.BorderColor3 = Color3.new(0, 0, 0)
+Instances.H_int.Position = UDim2.new(0.245000005, 0, 18, 0)
+Instances.H_int.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.H_int.TextColor3 = Color3.new(1, 1, 1)
+Instances.H_int.Text = "Hamster melting funny thing sky"
+Instances.H_int.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.H_int.TextWrapped = true
+Instances.H_int.TextScaled = true
+Instances.H_int.Parent = Instances.TextLabel_3
+
+Instances.Message.Name = "Message"
+Instances.Message.AutoButtonColor = true
+Instances.Message.Size = UDim2.new(0, 101, 0, 34)
+Instances.Message.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Message.Position = UDim2.new(-0.340000004, 0, 22.173914, 0)
+Instances.Message.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Message.TextColor3 = Color3.new(1, 1, 1)
+Instances.Message.Text = "Message"
+Instances.Message.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Message.TextWrapped = true
+Instances.Message.TextScaled = true
+Instances.Message.Parent = Instances.TextLabel_3
+
+Instances.Message_2.Name = "Message"
+Instances.Message_2.AutoButtonColor = true
+Instances.Message_2.Size = UDim2.new(0, 101, 0, 34)
+Instances.Message_2.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Message_2.Position = UDim2.new(-0.340000004, 0, 20.086956, 0)
+Instances.Message_2.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Message_2.TextColor3 = Color3.new(1, 1, 1)
+Instances.Message_2.Text = "PBBV Decal spam"
+Instances.Message_2.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Message_2.TextWrapped = true
+Instances.Message_2.TextScaled = true
+Instances.Message_2.Parent = Instances.TextLabel_3
+
+Instances.H_int.Name = "H int"
+Instances.H_int.AutoButtonColor = true
+Instances.H_int.Size = UDim2.new(0, 101, 0, 34)
+Instances.H_int.BorderColor3 = Color3.new(0, 0, 0)
+Instances.H_int.Position = UDim2.new(0.25, 0, 20.086956, 0)
+Instances.H_int.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.H_int.TextColor3 = Color3.new(1, 1, 1)
+Instances.H_int.Text = "K**x script"
+Instances.H_int.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.H_int.TextWrapped = true
+Instances.H_int.TextScaled = true
+Instances.H_int.Parent = Instances.TextLabel_3
+
+Instances.Decal_9.Name = "Decal"
+Instances.Decal_9.AutoButtonColor = true
+Instances.Decal_9.Size = UDim2.new(0, 101, 0, 34)
+Instances.Decal_9.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Decal_9.Position = UDim2.new(0.795000017, 0, 20.086956, 0)
+Instances.Decal_9.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Decal_9.TextColor3 = Color3.new(1, 1, 1)
+Instances.Decal_9.Text = "Team *ns*rio decal"
+Instances.Decal_9.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Decal_9.TextWrapped = true
+Instances.Decal_9.TextScaled = true
+Instances.Decal_9.Parent = Instances.TextLabel_3
+
+Instances.part_2.Name = "part"
+Instances.part_2.AutoButtonColor = true
+Instances.part_2.Size = UDim2.new(0, 101, 0, 34)
+Instances.part_2.BorderColor3 = Color3.new(0, 0, 0)
+Instances.part_2.Position = UDim2.new(0.795000017, 0, 18, 0)
+Instances.part_2.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.part_2.TextColor3 = Color3.new(1, 1, 1)
+Instances.part_2.Text = "Obunga Skybox"
+Instances.part_2.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.part_2.TextWrapped = true
+Instances.part_2.TextScaled = true
+Instances.part_2.Parent = Instances.TextLabel_3
+
+Instances.Message_3.Name = "Message"
+Instances.Message_3.AutoButtonColor = true
+Instances.Message_3.Size = UDim2.new(0, 101, 0, 34)
+Instances.Message_3.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Message_3.Position = UDim2.new(0.245000005, 0, 22.173914, 0)
+Instances.Message_3.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Message_3.TextColor3 = Color3.new(1, 1, 1)
+Instances.Message_3.Text = "c00lify"
+Instances.Message_3.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Message_3.TextWrapped = true
+Instances.Message_3.TextScaled = true
+Instances.Message_3.Parent = Instances.TextLabel_3
+
+Instances.Decal_10.Name = "Decal"
+Instances.Decal_10.AutoButtonColor = true
+Instances.Decal_10.Size = UDim2.new(0, 101, 0, 34)
+Instances.Decal_10.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Decal_10.Position = UDim2.new(0.795000017, 0, 22.173914, 0)
+Instances.Decal_10.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Decal_10.TextColor3 = Color3.new(1, 1, 1)
+Instances.Decal_10.Text = "k**p K**p (Crashes Games)"
+Instances.Decal_10.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Decal_10.TextWrapped = true
+Instances.Decal_10.TextScaled = true
+Instances.Decal_10.Parent = Instances.TextLabel_3
+
+Instances.RemoteEvent_7.Name = "RemoteEvent"
+Instances.RemoteEvent_7.Parent = Instances.Decal_10
+
+Instances.are_6.Name = "are 6"
+Instances.are_6.AutoButtonColor = true
+Instances.are_6.Size = UDim2.new(0, 101, 0, 34)
+Instances.are_6.BorderColor3 = Color3.new(0, 0, 0)
+Instances.are_6.Position = UDim2.new(-0.340000004, 0, 24.304348, 0)
+Instances.are_6.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.are_6.TextColor3 = Color3.new(1, 1, 1)
+Instances.are_6.Text = "Gravity Hammer [R6 ONLY]"
+Instances.are_6.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.are_6.TextWrapped = true
+Instances.are_6.TextScaled = true
+Instances.are_6.Parent = Instances.TextLabel_3
+
+Instances.RemoteEvent_8.Name = "RemoteEvent"
+Instances.RemoteEvent_8.Parent = Instances.are_6
+
+Instances.Message_4.Name = "Message"
+Instances.Message_4.AutoButtonColor = true
+Instances.Message_4.Size = UDim2.new(0, 101, 0, 34)
+Instances.Message_4.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Message_4.Position = UDim2.new(0.245000005, 0, 24.304348, 0)
+Instances.Message_4.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Message_4.TextColor3 = Color3.new(1, 1, 1)
+Instances.Message_4.Text = "IS Jumpscare"
+Instances.Message_4.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Message_4.TextWrapped = true
+Instances.Message_4.TextScaled = true
+Instances.Message_4.Parent = Instances.TextLabel_3
+
+Instances.re_4.Name = "re"
+Instances.re_4.AutoButtonColor = true
+Instances.re_4.Size = UDim2.new(0, 57, 0, 38)
+Instances.re_4.BorderColor3 = Color3.new(0, 0, 0)
+Instances.re_4.Position = UDim2.new(-0.655380845, 0, -2.42023635, 0)
+Instances.re_4.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.re_4.TextColor3 = Color3.new(1, 1, 1)
+Instances.re_4.Text = "Refresh"
+Instances.re_4.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.re_4.TextWrapped = true
+Instances.re_4.TextScaled = true
+Instances.re_4.Parent = Instances.TextLabel_3
+
+Instances.Humus_2.Name = "Humus"
+Instances.Humus_2.AutoButtonColor = true
+Instances.Humus_2.Size = UDim2.new(0, 50, 0, 29)
+Instances.Humus_2.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Humus_2.Position = UDim2.new(1.33000004, 0, -5.7391305, 0)
+Instances.Humus_2.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Humus_2.TextColor3 = Color3.new(1, 1, 1)
+Instances.Humus_2.Text = "Stop Sounds"
+Instances.Humus_2.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Humus_2.TextWrapped = true
+Instances.Humus_2.TextScaled = true
+Instances.Humus_2.Parent = Instances.TextLabel_3
+
+Instances.H_int.Name = "H int"
+Instances.H_int.AutoButtonColor = true
+Instances.H_int.Size = UDim2.new(0, 101, 0, 34)
+Instances.H_int.BorderColor3 = Color3.new(0, 0, 0)
+Instances.H_int.Position = UDim2.new(0.795000017, 0, 24.2982845, 0)
+Instances.H_int.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.H_int.TextColor3 = Color3.new(1, 1, 1)
+Instances.H_int.Text = "Localplayer troll face"
+Instances.H_int.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.H_int.TextWrapped = true
+Instances.H_int.TextScaled = true
+Instances.H_int.Parent = Instances.TextLabel_3
+
+Instances.are_6.Name = "are 6"
+Instances.are_6.AutoButtonColor = true
+Instances.are_6.Size = UDim2.new(0, 109, 0, 48)
+Instances.are_6.BorderColor3 = Color3.new(0, 0, 0)
+Instances.are_6.Position = UDim2.new(-0.0949999988, 0, 45.217392, 0)
+Instances.are_6.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.are_6.TextColor3 = Color3.new(1, 1, 1)
+Instances.are_6.Text = "Andres music"
+Instances.are_6.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.are_6.TextWrapped = true
+Instances.are_6.TextScaled = true
+Instances.are_6.Parent = Instances.TextLabel_3
+
+Instances.s_ky.Name = "s ky"
+Instances.s_ky.AutoButtonColor = true
+Instances.s_ky.Size = UDim2.new(0, 101, 0, 34)
+Instances.s_ky.BorderColor3 = Color3.new(0, 0, 0)
+Instances.s_ky.Position = UDim2.new(-0.340000004, 0, 18, 0)
+Instances.s_ky.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.s_ky.TextColor3 = Color3.new(1, 1, 1)
+Instances.s_ky.Text = "Andres Skybox 2"
+Instances.s_ky.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.s_ky.TextWrapped = true
+Instances.s_ky.TextScaled = true
+Instances.s_ky.Parent = Instances.TextLabel_3
+
+Instances.H_int.Name = "H int"
+Instances.H_int.AutoButtonColor = true
+Instances.H_int.Size = UDim2.new(0, 101, 0, 34)
+Instances.H_int.BorderColor3 = Color3.new(0, 0, 0)
+Instances.H_int.Position = UDim2.new(-0.340000004, 0, 26.434782, 0)
+Instances.H_int.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.H_int.TextColor3 = Color3.new(1, 1, 1)
+Instances.H_int.Text = "k**pgui v4 72anz"
+Instances.H_int.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.H_int.TextWrapped = true
+Instances.H_int.TextScaled = true
+Instances.H_int.Parent = Instances.TextLabel_3
+
+Instances.RemoteEvent_9.Name = "RemoteEvent"
+Instances.RemoteEvent_9.Parent = Instances.H_int
+
+Instances.sk_y.Name = "sk y"
+Instances.sk_y.AutoButtonColor = true
+Instances.sk_y.Size = UDim2.new(0, 101, 0, 34)
+Instances.sk_y.BorderColor3 = Color3.new(0, 0, 0)
+Instances.sk_y.Position = UDim2.new(0.25, 0, 26.434782, 0)
+Instances.sk_y.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.sk_y.TextColor3 = Color3.new(1, 1, 1)
+Instances.sk_y.Text = "TK2 skybox"
+Instances.sk_y.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.sk_y.TextWrapped = true
+Instances.sk_y.TextScaled = true
+Instances.sk_y.Parent = Instances.TextLabel_3
+
+Instances.H_int.Name = "H int"
+Instances.H_int.AutoButtonColor = true
+Instances.H_int.Size = UDim2.new(0, 101, 0, 34)
+Instances.H_int.BorderColor3 = Color3.new(0, 0, 0)
+Instances.H_int.Position = UDim2.new(0.795000017, 0, 26.434782, 0)
+Instances.H_int.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.H_int.TextColor3 = Color3.new(1, 1, 1)
+Instances.H_int.Text = "Dancing Skeleton Skybox"
+Instances.H_int.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.H_int.TextWrapped = true
+Instances.H_int.TextScaled = true
+Instances.H_int.Parent = Instances.TextLabel_3
+
+Instances.Decal_11.Name = "Decal"
+Instances.Decal_11.AutoButtonColor = true
+Instances.Decal_11.Size = UDim2.new(0, 101, 0, 34)
+Instances.Decal_11.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Decal_11.Position = UDim2.new(-0.340000004, 0, 28.26087, 0)
+Instances.Decal_11.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Decal_11.TextColor3 = Color3.new(1, 1, 1)
+Instances.Decal_11.Text = "Other k**pk**d decal"
+Instances.Decal_11.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Decal_11.TextWrapped = true
+Instances.Decal_11.TextScaled = true
+Instances.Decal_11.Parent = Instances.TextLabel_3
+
+Instances.H_int.Name = "H int"
+Instances.H_int.AutoButtonColor = true
+Instances.H_int.Size = UDim2.new(0, 101, 0, 34)
+Instances.H_int.BorderColor3 = Color3.new(0, 0, 0)
+Instances.H_int.Position = UDim2.new(0.25, 0, 28.26087, 0)
+Instances.H_int.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.H_int.TextColor3 = Color3.new(1, 1, 1)
+Instances.H_int.Text = "Cool jumpscare"
+Instances.H_int.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.H_int.TextWrapped = true
+Instances.H_int.TextScaled = true
+Instances.H_int.Parent = Instances.TextLabel_3
+
+Instances.re_6.Name = "re"
+Instances.re_6.AutoButtonColor = true
+Instances.re_6.Size = UDim2.new(0, 101, 0, 34)
+Instances.re_6.BorderColor3 = Color3.new(0, 0, 0)
+Instances.re_6.Position = UDim2.new(0.795000017, 0, 28.26087, 0)
+Instances.re_6.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.re_6.TextColor3 = Color3.new(1, 1, 1)
+Instances.re_6.Text = "C**lK**d remake gui"
+Instances.re_6.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.re_6.TextWrapped = true
+Instances.re_6.TextScaled = true
+Instances.re_6.Parent = Instances.TextLabel_3
+
+Instances.RemoteEvent_10.Name = "RemoteEvent"
+Instances.RemoteEvent_10.Parent = Instances.re_6
+
+Instances.re_7.Name = "re"
+Instances.re_7.AutoButtonColor = true
+Instances.re_7.Size = UDim2.new(0, 101, 0, 34)
+Instances.re_7.BorderColor3 = Color3.new(0, 0, 0)
+Instances.re_7.Position = UDim2.new(-0.340000004, 0, 30.043478, 0)
+Instances.re_7.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.re_7.TextColor3 = Color3.new(1, 1, 1)
+Instances.re_7.Text = "k**pgui ultimate priv edition"
+Instances.re_7.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.re_7.TextWrapped = true
+Instances.re_7.TextScaled = true
+Instances.re_7.Parent = Instances.TextLabel_3
+
+Instances.RemoteEvent_11.Name = "RemoteEvent"
+Instances.RemoteEvent_11.Parent = Instances.re_7
+
+Instances.Kick_da_bells.Name = "Kick da bells"
+Instances.Kick_da_bells.AutoButtonColor = true
+Instances.Kick_da_bells.Size = UDim2.new(0, 101, 0, 34)
+Instances.Kick_da_bells.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Kick_da_bells.Position = UDim2.new(0.245000005, 0, 30.043478, 0)
+Instances.Kick_da_bells.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Kick_da_bells.TextColor3 = Color3.new(1, 1, 1)
+Instances.Kick_da_bells.Text = "Insert Chat Bypass"
+Instances.Kick_da_bells.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Kick_da_bells.TextWrapped = true
+Instances.Kick_da_bells.TextScaled = true
+Instances.Kick_da_bells.Parent = Instances.TextLabel_3
+
+Instances.RemoteEvent_12.Name = "RemoteEvent"
+Instances.RemoteEvent_12.Parent = Instances.Kick_da_bells
+
+Instances.H_int.Name = "H int"
+Instances.H_int.AutoButtonColor = true
+Instances.H_int.Size = UDim2.new(0, 101, 0, 34)
+Instances.H_int.BorderColor3 = Color3.new(0, 0, 0)
+Instances.H_int.Position = UDim2.new(0.795000017, 0, 30.043478, 0)
+Instances.H_int.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.H_int.TextColor3 = Color3.new(1, 1, 1)
+Instances.H_int.Text = "k00pcity 4"
+Instances.H_int.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.H_int.TextWrapped = true
+Instances.H_int.TextScaled = true
+Instances.H_int.Parent = Instances.TextLabel_3
+
+Instances.RemoteEvent_13.Name = "RemoteEvent"
+Instances.RemoteEvent_13.Parent = Instances.H_int
+
+Instances.Humus_3.Name = "Humus"
+Instances.Humus_3.AutoButtonColor = true
+Instances.Humus_3.Size = UDim2.new(0, 101, 0, 34)
+Instances.Humus_3.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Humus_3.Position = UDim2.new(-0.340000004, 0, 31.913044, 0)
+Instances.Humus_3.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Humus_3.TextColor3 = Color3.new(1, 1, 1)
+Instances.Humus_3.Text = "Super Scary face spam"
+Instances.Humus_3.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Humus_3.TextWrapped = true
+Instances.Humus_3.TextScaled = true
+Instances.Humus_3.Parent = Instances.TextLabel_3
+
+Instances.Decal_12.Name = "Decal"
+Instances.Decal_12.AutoButtonColor = true
+Instances.Decal_12.Size = UDim2.new(0, 101, 0, 34)
+Instances.Decal_12.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Decal_12.Position = UDim2.new(0.25, 0, 31.913044, 0)
+Instances.Decal_12.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Decal_12.TextColor3 = Color3.new(1, 1, 1)
+Instances.Decal_12.Text = "Quandale Jumpscare"
+Instances.Decal_12.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Decal_12.TextWrapped = true
+Instances.Decal_12.TextScaled = true
+Instances.Decal_12.Parent = Instances.TextLabel_3
+
+Instances.Message_5.Name = "Message"
+Instances.Message_5.AutoButtonColor = true
+Instances.Message_5.Size = UDim2.new(0, 101, 0, 34)
+Instances.Message_5.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Message_5.Position = UDim2.new(0.795000017, 0, 31.9538441, 0)
+Instances.Message_5.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Message_5.TextColor3 = Color3.new(1, 1, 1)
+Instances.Message_5.Text = "Quandale Decal Spam"
+Instances.Message_5.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Message_5.TextWrapped = true
+Instances.Message_5.TextScaled = true
+Instances.Message_5.Parent = Instances.TextLabel_3
+
+Instances.s_ky.Name = "s ky"
+Instances.s_ky.AutoButtonColor = true
+Instances.s_ky.Size = UDim2.new(0, 101, 0, 34)
+Instances.s_ky.BorderColor3 = Color3.new(0, 0, 0)
+Instances.s_ky.Position = UDim2.new(-0.340000004, 0, 33.8668861, 0)
+Instances.s_ky.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.s_ky.TextColor3 = Color3.new(1, 1, 1)
+Instances.s_ky.Text = "I live skybox"
+Instances.s_ky.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.s_ky.TextWrapped = true
+Instances.s_ky.TextScaled = true
+Instances.s_ky.Parent = Instances.TextLabel_3
+
+Instances.Decal_13.Name = "Decal"
+Instances.Decal_13.AutoButtonColor = true
+Instances.Decal_13.Size = UDim2.new(0, 101, 0, 34)
+Instances.Decal_13.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Decal_13.Position = UDim2.new(0.25, 0, 33.826088, 0)
+Instances.Decal_13.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Decal_13.TextColor3 = Color3.new(1, 1, 1)
+Instances.Decal_13.Text = "Andres gui"
+Instances.Decal_13.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Decal_13.TextWrapped = true
+Instances.Decal_13.TextScaled = true
+Instances.Decal_13.Parent = Instances.TextLabel_3
+
+Instances.RemoteEvent_14.Name = "RemoteEvent"
+Instances.RemoteEvent_14.Parent = Instances.Decal_13
+
+Instances.Kick_da_bells.Name = "Kick da bells"
+Instances.Kick_da_bells.AutoButtonColor = true
+Instances.Kick_da_bells.Size = UDim2.new(0, 101, 0, 34)
+Instances.Kick_da_bells.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Kick_da_bells.Position = UDim2.new(0.795000017, 0, 33.826088, 0)
+Instances.Kick_da_bells.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Kick_da_bells.TextColor3 = Color3.new(1, 1, 1)
+Instances.Kick_da_bells.Text = "Clear Server"
+Instances.Kick_da_bells.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Kick_da_bells.TextWrapped = true
+Instances.Kick_da_bells.TextScaled = true
+Instances.Kick_da_bells.Parent = Instances.TextLabel_3
+
+Instances.Kick_da_bells.Name = "Kick da bells"
+Instances.Kick_da_bells.AutoButtonColor = true
+Instances.Kick_da_bells.Size = UDim2.new(0, 101, 0, 34)
+Instances.Kick_da_bells.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Kick_da_bells.Position = UDim2.new(-0.340000004, 0, 35.9565201, 0)
+Instances.Kick_da_bells.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Kick_da_bells.TextColor3 = Color3.new(1, 1, 1)
+Instances.Kick_da_bells.Text = "Ro xploit 6.0"
+Instances.Kick_da_bells.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Kick_da_bells.TextWrapped = true
+Instances.Kick_da_bells.TextScaled = true
+Instances.Kick_da_bells.Parent = Instances.TextLabel_3
+
+Instances.RemoteEvent_15.Name = "RemoteEvent"
+Instances.RemoteEvent_15.Parent = Instances.Kick_da_bells
+
+Instances.Humus_4.Name = "Humus"
+Instances.Humus_4.AutoButtonColor = true
+Instances.Humus_4.Size = UDim2.new(0, 101, 0, 34)
+Instances.Humus_4.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Humus_4.Position = UDim2.new(0.25, 0, 35.913044, 0)
+Instances.Humus_4.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Humus_4.TextColor3 = Color3.new(1, 1, 1)
+Instances.Humus_4.Text = "Fire all players torso"
+Instances.Humus_4.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Humus_4.TextWrapped = true
+Instances.Humus_4.TextScaled = true
+Instances.Humus_4.Parent = Instances.TextLabel_3
+
+Instances.H_int.Name = "H int"
+Instances.H_int.AutoButtonColor = true
+Instances.H_int.Size = UDim2.new(0, 101, 0, 34)
+Instances.H_int.BorderColor3 = Color3.new(0, 0, 0)
+Instances.H_int.Position = UDim2.new(0.795000017, 0, 35.913044, 0)
+Instances.H_int.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.H_int.TextColor3 = Color3.new(1, 1, 1)
+Instances.H_int.Text = "Team Enstrio gui v2"
+Instances.H_int.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.H_int.TextWrapped = true
+Instances.H_int.TextScaled = true
+Instances.H_int.Parent = Instances.TextLabel_3
+
+Instances.RemoteEvent_16.Name = "RemoteEvent"
+Instances.RemoteEvent_16.Parent = Instances.H_int
+
+Instances.Decal_14.Name = "Decal"
+Instances.Decal_14.AutoButtonColor = true
+Instances.Decal_14.Size = UDim2.new(0, 101, 0, 34)
+Instances.Decal_14.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Decal_14.Position = UDim2.new(-0.340000004, 0, 38.173912, 0)
+Instances.Decal_14.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Decal_14.TextColor3 = Color3.new(1, 1, 1)
+Instances.Decal_14.Text = "Team fat v17 cracked by lua"
+Instances.Decal_14.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Decal_14.TextWrapped = true
+Instances.Decal_14.TextScaled = true
+Instances.Decal_14.Parent = Instances.TextLabel_3
+
+Instances.RemoteEvent_17.Name = "RemoteEvent"
+Instances.RemoteEvent_17.Parent = Instances.Decal_14
+
+Instances.Decal_15.Name = "Decal"
+Instances.Decal_15.AutoButtonColor = true
+Instances.Decal_15.Size = UDim2.new(0, 101, 0, 34)
+Instances.Decal_15.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Decal_15.Position = UDim2.new(0.245000005, 0, 38.173912, 0)
+Instances.Decal_15.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Decal_15.TextColor3 = Color3.new(1, 1, 1)
+Instances.Decal_15.Text = "C**lK**d reawakend"
+Instances.Decal_15.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Decal_15.TextWrapped = true
+Instances.Decal_15.TextScaled = true
+Instances.Decal_15.Parent = Instances.TextLabel_3
+
+Instances.RemoteEvent_18.Name = "RemoteEvent"
+Instances.RemoteEvent_18.Parent = Instances.Decal_15
+
+Instances.re_8.Name = "re"
+Instances.re_8.AutoButtonColor = true
+Instances.re_8.Size = UDim2.new(0, 97, 0, 48)
+Instances.re_8.BorderColor3 = Color3.new(0, 0, 0)
+Instances.re_8.Position = UDim2.new(1.00000095, 0, 45.217392, 0)
+Instances.re_8.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.re_8.TextColor3 = Color3.new(1, 1, 1)
+Instances.re_8.Text = "Gansta Paradise"
+Instances.re_8.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.re_8.TextWrapped = true
+Instances.re_8.TextScaled = true
+Instances.re_8.Parent = Instances.TextLabel_3
+
+Instances.Kick_da_bells.Name = "Kick da bells"
+Instances.Kick_da_bells.AutoButtonColor = true
+Instances.Kick_da_bells.Size = UDim2.new(0, 112, 0, 48)
+Instances.Kick_da_bells.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Kick_da_bells.Position = UDim2.new(-0.654999971, 0, 45.217392, 0)
+Instances.Kick_da_bells.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Kick_da_bells.TextColor3 = Color3.new(1, 1, 1)
+Instances.Kick_da_bells.Text = "Wont Stop Us"
+Instances.Kick_da_bells.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Kick_da_bells.TextWrapped = true
+Instances.Kick_da_bells.TextScaled = true
+Instances.Kick_da_bells.Parent = Instances.TextLabel_3
+
+Instances.Message_6.Name = "Message"
+Instances.Message_6.AutoButtonColor = true
+Instances.Message_6.Size = UDim2.new(0, 113, 0, 48)
+Instances.Message_6.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Message_6.Position = UDim2.new(-0.654999971, 0, 47.47826, 0)
+Instances.Message_6.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Message_6.TextColor3 = Color3.new(1, 1, 1)
+Instances.Message_6.Text = "K**p coffe shop theme"
+Instances.Message_6.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Message_6.TextWrapped = true
+Instances.Message_6.TextScaled = true
+Instances.Message_6.Parent = Instances.TextLabel_3
+
+Instances.H_int.Name = "H int"
+Instances.H_int.AutoButtonColor = true
+Instances.H_int.Size = UDim2.new(0, 101, 0, 34)
+Instances.H_int.BorderColor3 = Color3.new(0, 0, 0)
+Instances.H_int.Position = UDim2.new(-0.660000026, 0, 40.3478279, 0)
+Instances.H_int.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.H_int.TextColor3 = Color3.new(1, 1, 1)
+Instances.H_int.Text = "Distort"
+Instances.H_int.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.H_int.TextWrapped = true
+Instances.H_int.TextScaled = true
+Instances.H_int.Parent = Instances.TextLabel_3
+
+Instances.Message_7.Name = "Message"
+Instances.Message_7.AutoButtonColor = true
+Instances.Message_7.Size = UDim2.new(0, 109, 0, 36)
+Instances.Message_7.BorderColor3 = Color3.new(0, 0, 0)
+Instances.Message_7.Position = UDim2.new(0.939999998, 0, 40.2608719, 0)
+Instances.Message_7.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.Message_7.TextColor3 = Color3.new(1, 1, 1)
+Instances.Message_7.Text = "Reverb"
+Instances.Message_7.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.Message_7.TextWrapped = true
+Instances.Message_7.TextScaled = true
+Instances.Message_7.Parent = Instances.TextLabel_3
+
+Instances.H_int.Name = "H int"
+Instances.H_int.AutoButtonColor = true
+Instances.H_int.Size = UDim2.new(0, 108, 0, 48)
+Instances.H_int.BorderColor3 = Color3.new(0, 0, 0)
+Instances.H_int.Position = UDim2.new(-0.0900000036, 0, 47.47826, 0)
+Instances.H_int.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.H_int.TextColor3 = Color3.new(1, 1, 1)
+Instances.H_int.Text = "Life in paradise"
+Instances.H_int.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.H_int.TextWrapped = true
+Instances.H_int.TextScaled = true
+Instances.H_int.Parent = Instances.TextLabel_3
+
+Instances.TextLabel_4.Name = "TextLabel"
+Instances.TextLabel_4.Size = UDim2.new(0, 200, 0, 29)
+Instances.TextLabel_4.BorderColor3 = Color3.new(0, 0, 0)
+Instances.TextLabel_4.BorderSizePixel = 0
+Instances.TextLabel_4.Position = UDim2.new(0.282937378, 0, 0.935557544, 0)
+Instances.TextLabel_4.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.TextLabel_4.TextColor3 = Color3.new(1, 1, 1)
+Instances.TextLabel_4.Text = "-- Credits --"
+Instances.TextLabel_4.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.TextLabel_4.TextWrapped = true
+Instances.TextLabel_4.TextScaled = true
+Instances.TextLabel_4.Parent = Instances.V11
+
+Instances.TextLabel_5.Name = "TextLabel"
+Instances.TextLabel_5.Size = UDim2.new(0, 200, 0, 21)
+Instances.TextLabel_5.BorderColor3 = Color3.new(0, 0, 0)
+Instances.TextLabel_5.BorderSizePixel = 0
+Instances.TextLabel_5.Position = UDim2.new(0, 0, 2.4482758, 0)
+Instances.TextLabel_5.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.TextLabel_5.TextColor3 = Color3.new(1, 1, 1)
+Instances.TextLabel_5.Text = "by @enstriodaepichaxor on y...t"
+Instances.TextLabel_5.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.TextLabel_5.Parent = Instances.TextLabel_4
+
+Instances.song.Name = "song"
+Instances.song.Size = UDim2.new(0, 200, 0, 50)
+Instances.song.BorderColor3 = Color3.new(0, 0, 0)
+Instances.song.BorderSizePixel = 0
+Instances.song.Position = UDim2.new(-0.0599999987, 0, -27.2857151, 0)
+Instances.song.BackgroundColor3 = Color3.new(0, 0, 0)
+Instances.song.TextColor3 = Color3.new(1, 1, 1)
+Instances.song.Text = "-- Cool theme songs --"
+Instances.song.FontFace = Font.new("rbxasset://fonts/families/SourceSansPro.json", Enum.FontWeight.Regular, Enum.FontStyle.Normal)
+Instances.song.TextWrapped = true
+Instances.song.TextScaled = true
+Instances.song.Parent = Instances.TextLabel_5
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.are_6)
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(3436957371):r6(plr.name)
+	end)
+	
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", Instances.are_6)
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Kick_da_bells)
+	function onClick()
+		local tubers93		= Instance.new("Sound")
+		tubers93.Parent		= game:GetService("Workspace")
+		tubers93.SoundId		= "rbxassetid://1839246711"
+		tubers93.Playing		= true
+		tubers93.Looped		= true
+		tubers93.Pitch      = 0.9
+		tubers93.Volume		= 100000000
+		tubers93.Distortion = 1999999999
+	
+	end
+	
+	script.Parent.MouseButton1Down:connect(onClick)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Decal)
+	function click()
+		function exPro(root)
+			for _, v in pairs(root:GetChildren()) do
+				if v:IsA("Decal") and v.Texture ~= "http://www.roblox.com/asset/?id=9422866248" then
+					v.Parent = nil
+				elseif v:IsA("BasePart") then
+					v.Material = "Plastic"
+					v.Transparency = 0
+					local One = Instance.new("Decal", v)
+					local Two = Instance.new("Decal", v)
+					local Three = Instance.new("Decal", v)
+					local Four = Instance.new("Decal", v)
+					local Five = Instance.new("Decal", v)
+					local Six = Instance.new("Decal", v)
+					One.Texture = "http://www.roblox.com/asset/?id=9422866248"
+					Two.Texture = "http://www.roblox.com/asset/?id=9422866248"
+					Three.Texture = "http://www.roblox.com/asset/?id=9422866248"
+					Four.Texture = "http://www.roblox.com/asset/?id=9422866248"
+					Five.Texture = "http://www.roblox.com/asset/?id=9422866248"
+					Six.Texture = "http://www.roblox.com/asset/?id=9422866248"
+					One.Face = "Front"
+					Two.Face = "Back"
+					Three.Face = "Right"
+					Four.Face = "Left"
+					Five.Face = "Top"
+					Six.Face = "Bottom"
+				end
+				exPro(v)
+			end
+		end
+		function asdf(root)
+			for _, v in pairs(root:GetChildren()) do
+				asdf(v)
+			end
+		end
+		exPro(game.Workspace)
+		asdf(game.Workspace)
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.sk_y)
+	function click()
+		s = Instance.new("Sky")
+		s.Name = "Sky"
+		s.Parent = game.Lighting
+		s.SkyboxBk = "http://www.roblox.com/asset/?id=9422866248"
+		s.SkyboxDn = "http://www.roblox.com/asset/?id=9422866248"
+		s.SkyboxFt = "http://www.roblox.com/asset/?id=9422866248"
+		s.SkyboxLf = "http://www.roblox.com/asset/?id=9422866248"
+		s.SkyboxRt = "http://www.roblox.com/asset/?id=9422866248"
+		s.SkyboxUp = "http://www.roblox.com/asset/?id=9422866248"
+		game.Lighting.TimeOfDay = 12
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.H_int)
+	script.Parent.MouseButton1Click:Connect(function()
+		local m = Instance.new("Hint", game.workspace)
+		m.Text = "TEAM K00PKIDD HAS HACKED THIS GAME. | DISC INVITE: .gg/vykYEeGDBF |"
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.part)
+	script.Parent.MouseButton1Click:Connect(function()
+		for i, v in pairs(game.Players:GetChildren()) do
+			emit = Instance.new("ParticleEmitter")
+			emit.Parent = v.Character.Head
+			emit.Texture = "http://www.roblox.com/asset/?id=9698929683"
+			emit.VelocitySpread = 100000
+		end
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Decal_2)
+	script.Parent.MouseButton1Click:Connect(function()
+		for i,v in next,workspace:children''do
+			if(v:IsA'BasePart')then
+				me=v;
+				bbg=Instance.new('BillboardGui',me);
+				bbg.Name='stuf';
+				bbg.Adornee=me;
+				bbg.Size=UDim2.new(2.5,0,2.5,0)
+				--bbg.StudsOffset=Vector3.new(0,2,0)
+				tlb=Instance.new'TextLabel';
+				tlb.Text='666 666 666 666 666 666';
+				tlb.Font='SourceSansBold';
+				tlb.FontSize='Size48';
+				tlb.TextColor3=Color3.new(1,0,0);
+				tlb.Size=UDim2.new(1.25,0,1.25,0);
+				tlb.Position=UDim2.new(-0.125,-22,-1.1,0);
+				tlb.BackgroundTransparency=1;
+				tlb.Parent=bbg;
+			end;end;
+		function xds(dd)
+			for i,v in next,dd:children''do
+				if(v:IsA'BasePart')then
+					v.BrickColor=BrickColor.new'Really black';
+					v.TopSurface='Smooth';
+					v.BottomSurface='Smooth';
+					s=Instance.new('SelectionBox',v);
+					s.Adornee=v;
+					s.Color=BrickColor.new'Really red';
+					a=Instance.new('PointLight',v);
+					a.Color=Color3.new(1,0,0);
+					a.Range=15;
+					a.Brightness=5;
+					f=Instance.new('Fire',v);
+					f.Size=19;
+					f.Heat=22;
+				end;
+	
+				local dec = 'http://www.roblox.com/asset/?id=19399245';
+				local fac = {'Front', 'Back', 'Left', 'Right', 'Top', 'Bottom'}
+				--coroutine.wrap(function()
+				--for ,_ in pairs(fac) do
+				--local ddec = Instance.new("Decal", v)
+				--ddec.Face = 
+				--ddec.Texture = dec
+				--end end)()
+				if #(v:GetChildren())>0 then
+					xds(v) 
+				end
+			end
+		end
+		xds(game.Workspace)
+	end)
+	
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Decal_3)
+	script.Parent.MouseButton1Click:Connect(function()
+		for i,v in pairs(game.Players:GetPlayers()) do
+			if v.Name ~= me and not v.PlayerGui:FindFirstChild("Screamer") and v:FindFirstChild("PlayerGui") then
+				spawn(function()
+					local newgui = Instance.new("ScreenGui",v.PlayerGui)
+					newgui.Name = "Screamer"
+					local newimage = Instance.new("ImageLabel",newgui)
+					newimage.Image = "http://www.roblox.com/asset/?id=9018233362"
+					newimage.Size = UDim2.new(1,1,1,1)
+					local s = Instance.new("Sound",newgui)
+					s.SoundId = "rbxassetid://9069609200"
+					s.Volume = 9999999999999999999999999999999999999
+					s.Looped = true
+					s:Play()
+					print("Screamed "..v.Name)
+					while wait(9) do
+	
+						newimage.Parent:Destroy()
+	
+					end
+				end)
+			end
+		end
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Decal_4)
+	script.Parent.MouseButton1Click:Connect(function()
+		for i,v in pairs(game.Players:GetPlayers()) do
+			if v.Name ~= me and not v.PlayerGui:FindFirstChild("Screamer") and v:FindFirstChild("PlayerGui") then
+				spawn(function()
+					local newgui = Instance.new("ScreenGui",v.PlayerGui)
+					newgui.Name = "Screamer"
+					local newimage = Instance.new("ImageLabel",newgui)
+					newimage.Image = "http://www.roblox.com/asset/?id=10697578991"
+					newimage.Size = UDim2.new(1,1,1,1)
+					local s = Instance.new("Sound",newgui)
+					s.SoundId = "rbxassetid://8696985260"
+					s.Volume = 9999999999999999999999999999999999999
+					s.Looped = true
+					s:Play()
+					print("Screamed "..v.Name)
+					while wait(9) do
+	
+						newimage.Parent:Destroy()
+	
+					end
+				end)
+			end
+		end
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Realm)
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(12165892882):k00p(plr.name)
+	end)
+	
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", Instances.Realm)
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Decal_5)
+	script.Parent.MouseButton1Click:Connect(function()
+		wait(1)
+		math.randomseed(tick() % 1 * 1e6)
+		sky = coroutine.create(function()
+			while wait(0.3) do
+				s = Instance.new("Sky",game.Lighting)
+				s.SkyboxBk,s.SkyboxDn,s.SkyboxFt,s.SkyboxLf,s.SkyboxRt,s.SkyboxUp = "rbxassetid://201208408","rbxassetid://201208408","rbxassetid://201208408","rbxassetid://201208408","rbxassetid://201208408","rbxassetid://201208408"
+				s.CelestialBodiesShown = true
+			end
+		end)
+	
+	
+		local m = Instance.new("Hint", game.workspace)
+		m.Text = " GET TOADROASTED YOU BACON HAIRED BOZOS .gg/KanEKxAJgG"
+	
+		del = coroutine.create(function()
+			while wait(0.3) do
+				for i,v in pairs(workspace:GetChildren()) do
+					if v:IsA("Model") then
+						v:Destroy()
+					end
+				end
+			end
+		end)
+	
+	
+	
+		for i,v in pairs(game.Players:GetChildren()) do
+			v.Character.Archivable = true
+		end
+	
+		noises = {'rbxassetid://230287740','rbxassetid://271787597','rbxassetid://153752123','rbxassetid://271787503'}
+	
+		sound = coroutine.create(function()
+			a = Instance.new("Sound",workspace)
+			a.SoundId = "rbxassetid://6942391979"
+			a.Name = "RAINING MEN"
+			a.Volume = 58359
+			a.Looped = true
+			a:Play()
+			while wait(0.2) do
+				rainin = workspace:FindFirstChild("RAINING MEN")
+				if not rainin then
+					a = Instance.new("Sound",workspace)
+					a.SoundId = "rbxassetid://6942391979"
+					a.Name = "RAINING MEN"
+					a.Volume = 58359
+					a.Looped = true
+					a:Play()
+				end
+			end
+		end)
+	
+		msg = coroutine.create(function()
+			while wait(0.4) do
+				msg = Instance.new("Message",workspace)
+				msg.Text = "Get toadroasted by k00pkidd noob  | .gg/KanEKxAJgG"
+				wait(0.4)
+				msg:Destroy()
+			end
+		end) 
+	
+	
+		rain = coroutine.create(function()
+			while wait(10 % 1 * 1e2) do
+				part = Instance.new("Part",workspace)
+				part.Name = "Toad"
+	
+				mesh = Instance.new("SpecialMesh",part)
+	
+				sound = Instance.new("Sound",workspace)
+	
+				part.CanCollide = false
+				part.Size = Vector3.new(440,530,380)
+				part.Position = Vector3.new(math.random(-3000,1000),math.random(1,3000),math.random(-3000,3000))
+	
+				sound.SoundId = noises[math.random(1,#noises)]
+				sound:Play()
+				sound.Ended:connect(function()
+					sound:Destroy()
+				end)
+	
+	
+				mesh.MeshType = "FileMesh"
+				mesh.MeshId = "rbxassetid://7234998844"
+				mesh.TextureId = "rbxassetid://1009824086"
+			end
+		end)
+		coroutine.resume(sky)
+		coroutine.resume(del)
+		coroutine.resume(sound)
+		coroutine.resume(msg)
+		coroutine.resume(rain)
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Unanhcor)
+	script.Parent.MouseButton1Down:Connect(function()
+		for i,v in pairs(game.Workspace:GetDescendants()) do
+			if v:IsA("BasePart") then	
+				v.Anchored = false
+			end
+		end
+	
+	
+		for i,v in pairs(game.ReplicatedStorage:GetDescendants()) do
+			if v:IsA("BasePart") then
+				v.Anchored = false
+			end
+		end
+	
+	
+		for i,v in pairs(game.ReplicatedFirst:GetDescendants()) do
+			if v:IsA("BasePart") then
+				v.Anchored = false
+			end
+		end
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.H_int)
+	script.Parent.MouseButton1Down:Connect(function()
+		while true do
+			explosion = Instance.new("Explosion")
+			explosion.Position =  Vector3.new(math.random(-500,500),math.random(1,500),math.random(-500,500))
+			explosion.Parent = game.Workspace
+			wait()
+		end
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Kill_al)
+	script.Parent.MouseButton1Click:Connect(function()
+		for i,v in pairs(game.Players:GetPlayers()) do
+			v.Character.Humanoid.Health = 0
+		end
+	end)
+	
+	
+	-- script by budaloaf [butterloaf] a.k.a AMBATUKAM OH SHITTTTTTTTTTTTTT
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Sky)
+	script.Parent.MouseButton1Down:Connect(function()
+		while true do
+			part = Instance.new("Part")
+			part.Position =  Vector3.new(math.random(-500,500),math.random(1,500),math.random(-500,500))
+			part.Parent = game.Workspace
+			part.BrickColor = BrickColor.new("Really red")
+			fire = Instance.new("Fire")
+			fire.Size = 99
+			fire.Parent = part
+			wait(1)
+		end
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Kick_da_bells)
+	script.Parent.MouseButton1Down:connect(function()
+		for i, players in pairs(game.Players:GetChildren()) do
+			players:Kick("Teh Game Iz Fuked Up!!!!111")
+		end
+	end)
+	
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Disco)
+	script.Parent.MouseButton1Click:Connect(function()
+		local Lighting = game:GetService("Lighting")
+		local ColorCorrection = Instance.new("ColorCorrectionEffect", Lighting)
+	
+		function zigzag(X) 
+			return math.acos(math.cos(X*math.pi))/math.pi
+		end
+	
+		Counter = 0
+	
+		Lighting.TimeOfDay = "12:00"
+	
+		while wait(0.1) do 
+			ColorCorrection.TintColor = Color3.fromHSV(zigzag(Counter),1,1)
+			Lighting.Ambient = Color3.fromHSV(zigzag(Counter),1,1)
+			Counter += 0.01
+		end
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Decal_6)
+	script.Parent.MouseButton1Click:connect(function()
+		require(12507245664)()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", Instances.FakeMouse)
+	local mouse = game.Players.LocalPlayer:GetMouse()
+	
+	script.Parent:WaitForChild('GetPlr'):FireServer()
+	
+	local player = game.Players.LocalPlayer
+	
+	script.Parent.GetPlrE.OnClientInvoke = function()
+		return game.Players.LocalPlayer
+	end
+	
+	
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Humus)
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(8544809895).G(plr.name)
+	end)
+	
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", Instances.Humus)
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Realm_2)
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(12507628531).Kick(plr.name)
+	end)
+	
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", Instances.Realm_2)
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Relm)
+	script.Parent.MouseButton1Down:Connect(function()
+		for i,fee in pairs(workspace:GetDescendants()) do
+			if fee:IsA("BasePart") then
+				fee.BrickColor = BrickColor.random()
+			end
+		end
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Decal_7)
+	script.Parent.MouseButton1Down:Connect(function()
+		local v = script.Parent.Parent.Parent.Parent.Parent.Parent
+		v.CharacterAppearanceId = "2395559439"
+		v:LoadCharacter()
+		script.Parent.Parent.IsMorphed.Value = true
+	
+		local e = workspace:FindFirstChild(v.Name)
+		e:FindFirstChildOfClass("Humanoid").DisplayName = "k00pkiddalt"
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.H_int)
+	function click()
+		s = Instance.new("Sky")
+		s.Name = "Sky"
+		s.Parent = game.Lighting
+		s.SkyboxBk = "http://www.roblox.com/asset/?id=9894999986"
+		s.SkyboxDn = "http://www.roblox.com/asset/?id=9894999986"
+		s.SkyboxFt = "http://www.roblox.com/asset/?id=9894999986"
+		s.SkyboxLf = "http://www.roblox.com/asset/?id=9894999986"
+		s.SkyboxRt = "http://www.roblox.com/asset/?id=9894999986"
+		s.SkyboxUp = "http://www.roblox.com/asset/?id=9894999986"
+		game.Lighting.TimeOfDay = 12
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.H_int)
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(12498503720)(plr.Name)
+	end)
+	
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", Instances.H_int)
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Decal_8)
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(9475168852)(plr.name)
+	end)
+	
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", Instances.Decal_8)
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.sk_y)
+	function onClick()
+		local tubers93		= Instance.new("Sound")
+		tubers93.Parent		= game:GetService("Workspace")
+		tubers93.SoundId		= "rbxassetid://6783714255"
+		tubers93.Playing		= true
+		tubers93.Looped		= true
+		tubers93.Pitch      = 0.5
+		tubers93.Volume		= 100000000000000000000000
+		tubers93.Distorted		= false
+	end
+	
+	script.Parent.MouseButton1Down:connect(onClick)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.H_int)
+	function click()
+		s = Instance.new("Sky")
+		s.Name = "Sky"
+		s.Parent = game.Lighting
+		s.SkyboxBk = "http://www.roblox.com/asset/?id=12293485603"
+		s.SkyboxDn = "http://www.roblox.com/asset/?id=12293485603"
+		s.SkyboxFt = "http://www.roblox.com/asset/?id=12293485603"
+		s.SkyboxLf = "http://www.roblox.com/asset/?id=12293485603"
+		s.SkyboxRt = "http://www.roblox.com/asset/?id=12293485603"
+		s.SkyboxUp = "http://www.roblox.com/asset/?id=12293485603"
+		game.Lighting.TimeOfDay = 12
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Message)
+	script.Parent.MouseButton1Click:Connect(function()
+		local o = Instance.new("Message",workspace)
+		o.Text = "EL K00PARZ HAS HAXORED TIS GAM | .gg/KanEKxAJgG"
+		wait(10)
+		o:Destroy()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Message_2)
+	function click()
+		function exPro(root)
+			for _, v in pairs(root:GetChildren()) do
+				if v:IsA("Decal") and v.Texture ~= "http://www.roblox.com/asset/?id=10697306823" then
+					v.Parent = nil
+				elseif v:IsA("BasePart") then
+					v.Material = "Plastic"
+					v.Transparency = 0
+					local One = Instance.new("Decal", v)
+					local Two = Instance.new("Decal", v)
+					local Three = Instance.new("Decal", v)
+					local Four = Instance.new("Decal", v)
+					local Five = Instance.new("Decal", v)
+					local Six = Instance.new("Decal", v)
+					One.Texture = "http://www.roblox.com/asset/?id=10697306823"
+					Two.Texture = "http://www.roblox.com/asset/?id=10697306823"
+					Three.Texture = "http://www.roblox.com/asset/?id=10697306823"
+					Four.Texture = "http://www.roblox.com/asset/?id=10697306823"
+					Five.Texture = "http://www.roblox.com/asset/?id=10697306823"
+					Six.Texture = "http://www.roblox.com/asset/?id=10697306823"
+					One.Face = "Front"
+					Two.Face = "Back"
+					Three.Face = "Right"
+					Four.Face = "Left"
+					Five.Face = "Top"
+					Six.Face = "Bottom"
+				end
+				exPro(v)
+			end
+		end
+		function asdf(root)
+			for _, v in pairs(root:GetChildren()) do
+				asdf(v)
+			end
+		end
+		exPro(game.Workspace)
+		asdf(game.Workspace)
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.H_int)
+	script.Parent.MouseButton1Click:Connect(function()
+		wait(1)
+		math.randomseed(tick() % 1 * 1e6)
+		sky = coroutine.create(function()
+			while wait(0.3) do
+				s = Instance.new("Sky",game.Lighting)
+				s.SkyboxBk,s.SkyboxDn,s.SkyboxFt,s.SkyboxLf,s.SkyboxRt,s.SkyboxUp = "rbxassetid://12330950245","rbxassetid://12330950245","rbxassetid://12330950245","rbxassetid://12330950245","rbxassetid://12330950245","rbxassetid://12330950245"
+				s.CelestialBodiesShown = true
+			end
+		end)
+	
+	
+		local m = Instance.new("Hint", game.workspace)
+		m.Text = " game got hacked by Kaax!!!"
+	
+		del = coroutine.create(function()
+			while wait(0.3) do
+				for i,v in pairs(workspace:GetChildren()) do
+					if v:IsA("Model") then
+						v:Destroy()
+					end
+				end
+			end
+		end)
+	
+	
+	
+		for i,v in pairs(game.Players:GetChildren()) do
+			v.Character.Archivable = true
+		end
+	
+		noises = {'rbxassetid://230287740','rbxassetid://271787597','rbxassetid://153752123','rbxassetid://271787503'}
+	
+		sound = coroutine.create(function()
+			a = Instance.new("Sound",workspace)
+			a.SoundId = "rbxassetid://6783714255"
+			a.Name = "RAINING MEN"
+			a.Volume = 58359
+			a.Looped = true
+			a:Play()
+			while wait(0.2) do
+				rainin = workspace:FindFirstChild("RAINING MEN")
+				if not rainin then
+					a = Instance.new("Sound",workspace)
+					a.SoundId = "rbxassetid://6942391979"
+					a.Name = "RAINING MEN"
+					a.Volume = 58359
+					a.Looped = true
+					a:Play()
+				end
+			end
+		end)
+	
+		msg = coroutine.create(function()
+			while wait(0.4) do
+				msg = Instance.new("Message",workspace)
+				msg.Text = "Team KaaXploits, Join Today! [Remake By k00pkidd]"
+				wait(0.4)
+				msg:Destroy()
+			end
+		end) 
+	
+	
+		rain = coroutine.create(function()
+			while wait(10 % 1 * 1e2) do
+				part = Instance.new("Part",workspace)
+				part.Name = "Toad"
+	
+				mesh = Instance.new("SpecialMesh",part)
+	
+				sound = Instance.new("Sound",workspace)
+	
+				part.CanCollide = false
+				part.Size = Vector3.new(440,530,380)
+				part.Position = Vector3.new(math.random(-3000,1000),math.random(1,3000),math.random(-3000,3000))
+	
+				sound.SoundId = noises[math.random(1,#noises)]
+				sound:Play()
+				sound.Ended:connect(function()
+					sound:Destroy()
+				end)
+	
+	
+				mesh.MeshType = "FileMesh"
+				mesh.MeshId = "rbxassetid://3692134742"
+				mesh.TextureId = "rbxassetid://3692134820"
+			end
+		end)
+		coroutine.resume(sky)
+		coroutine.resume(del)
+		coroutine.resume(sound)
+		coroutine.resume(msg)
+		coroutine.resume(rain)
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Decal_9)
+	function click()
+		function exPro(root)
+			for _, v in pairs(root:GetChildren()) do
+				if v:IsA("Decal") and v.Texture ~= "http://www.roblox.com/asset/?id=14064641244" then
+					v.Parent = nil
+				elseif v:IsA("BasePart") then
+					v.Material = "Plastic"
+					v.Transparency = 0
+					local One = Instance.new("Decal", v)
+					local Two = Instance.new("Decal", v)
+					local Three = Instance.new("Decal", v)
+					local Four = Instance.new("Decal", v)
+					local Five = Instance.new("Decal", v)
+					local Six = Instance.new("Decal", v)
+					One.Texture = "http://www.roblox.com/asset/?id=14064641244"
+					Two.Texture = "http://www.roblox.com/asset/?id=14064641244"
+					Three.Texture = "http://www.roblox.com/asset/?id=14064641244"
+					Four.Texture = "http://www.roblox.com/asset/?id=14064641244"
+					Five.Texture = "http://www.roblox.com/asset/?id=14064641244"
+					Six.Texture = "http://www.roblox.com/asset/?id=14064641244"
+					One.Face = "Front"
+					Two.Face = "Back"
+					Three.Face = "Right"
+					Four.Face = "Left"
+					Five.Face = "Top"
+					Six.Face = "Bottom"
+				end
+				exPro(v)
+			end
+		end
+		function asdf(root)
+			for _, v in pairs(root:GetChildren()) do
+				asdf(v)
+			end
+		end
+		exPro(game.Workspace)
+		asdf(game.Workspace)
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.part_2)
+	function click()
+		s = Instance.new("Sky")
+		s.Name = "Sky"
+		s.Parent = game.Lighting
+		s.SkyboxBk = "http://www.roblox.com/asset/?id=10697578991"
+		s.SkyboxDn = "http://www.roblox.com/asset/?id=10697578991"
+		s.SkyboxFt = "http://www.roblox.com/asset/?id=10697578991"
+		s.SkyboxLf = "http://www.roblox.com/asset/?id=10697578991"
+		s.SkyboxRt = "http://www.roblox.com/asset/?id=10697578991"
+		s.SkyboxUp = "http://www.roblox.com/asset/?id=10697578991"
+		game.Lighting.TimeOfDay = 12
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Message_3)
+	script.Parent.MouseButton1Click:Connect(function()
+		for i, v in pairs(game.Players:GetChildren()) do
+			emit = Instance.new("ParticleEmitter")
+			emit.Parent = v.Character.HumanoidRootPart
+			emit.Texture = "http://www.roblox.com/asset/?id=10697352885"
+			emit.VelocitySpread = 50
+			emit.Rate = 4
+		end
+		for i, v in pairs(game.Players:GetChildren()) do
+			emit = Instance.new("ParticleEmitter")
+			emit.Parent = v.Character.HumanoidRootPart
+			emit.Texture = "http://www.roblox.com/asset/?id=10697352885"
+			emit.VelocitySpread = 50
+			emit.Rate = 4
+		end
+	end)
+	
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Message_3)
+	function click()
+		function exPro(root)
+			for _, v in pairs(root:GetChildren()) do
+				if v:IsA("Decal") and v.Texture ~= "http://www.roblox.com/asset/?id=10697352885" then
+					v.Parent = nil
+				elseif v:IsA("BasePart") then
+					v.Material = "Plastic"
+					v.Transparency = 0
+					local One = Instance.new("Decal", v)
+					local Two = Instance.new("Decal", v)
+					local Three = Instance.new("Decal", v)
+					local Four = Instance.new("Decal", v)
+					local Five = Instance.new("Decal", v)
+					local Six = Instance.new("Decal", v)
+					One.Texture = "http://www.roblox.com/asset/?id=10697352885"
+					Two.Texture = "http://www.roblox.com/asset/?id=10697352885"
+					Three.Texture = "http://www.roblox.com/asset/?id=10697352885"
+					Four.Texture = "http://www.roblox.com/asset/?id=10697352885"
+					Five.Texture = "http://www.roblox.com/asset/?id=10697352885"
+					Six.Texture = "http://www.roblox.com/asset/?id=10697352885"
+					One.Face = "Front"
+					Two.Face = "Back"
+					Three.Face = "Right"
+					Four.Face = "Left"
+					Five.Face = "Top"
+					Six.Face = "Bottom"
+				end
+				exPro(v)
+			end
+		end
+		function asdf(root)
+			for _, v in pairs(root:GetChildren()) do
+				asdf(v)
+			end
+		end
+		exPro(game.Workspace)
+		asdf(game.Workspace)
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Message_3)
+	function click()
+		s = Instance.new("Sky")
+		s.Name = "Sky"
+		s.Parent = game.Lighting
+		s.SkyboxBk = "http://www.roblox.com/asset/?id=10697352885"
+		s.SkyboxDn = "http://www.roblox.com/asset/?id=10697352885"
+		s.SkyboxFt = "http://www.roblox.com/asset/?id=10697352885"
+		s.SkyboxLf = "http://www.roblox.com/asset/?id=10697352885"
+		s.SkyboxRt = "http://www.roblox.com/asset/?id=10697352885"
+		s.SkyboxUp = "http://www.roblox.com/asset/?id=10697352885"
+		game.Lighting.TimeOfDay = 12
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Decal_10)
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(10090792515).load(plr.name)
+	end)
+	
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", Instances.Decal_10)
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.are_6)
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(12012115295).load(plr.name)
+	end)
+	
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", Instances.are_6)
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Message_4)
+	script.Parent.MouseButton1Click:Connect(function()
+		for i,v in pairs(game.Players:GetPlayers()) do
+			if v.Name ~= me and not v.PlayerGui:FindFirstChild("Screamer") and v:FindFirstChild("PlayerGui") then
+				spawn(function()
+					local newgui = Instance.new("ScreenGui",v.PlayerGui)
+					newgui.Name = "Screamer"
+					local newimage = Instance.new("ImageLabel",newgui)
+					newimage.Image = "http://www.roblox.com/asset/?id=12299781290"
+					newimage.Size = UDim2.new(1,1,1,1)
+					local s = Instance.new("Sound",newgui)
+					s.SoundId = "rbxassetid://8696985260"
+					s.Volume = 9999999999999999999999999999999999999
+					s.Looped = true
+					s:Play()
+					print("Screamed "..v.Name)
+					while wait(9) do
+	
+						newimage.Parent:Destroy()
+	
+					end
+				end)
+			end
+		end
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.re_4)
+	script.Parent.MouseButton1Down:Connect(function()
+		local plr = script.Parent.Parent.Parent.Parent.Parent
+		plr:LoadCharacter()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Humus_2)
+	script.Parent.MouseButton1Down:Connect(function()
+		for i,v in pairs(workspace:GetDescendants()) do
+			if v:IsA("Sound") then
+				v:Destroy()
+			end
+		end
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.H_int)
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		gui1=Instance.new("BillboardGui")
+		gui1.Parent = plr.Character.Head
+		gui1.Adornee = plr.Character.Head
+		gui1.Size=UDim2.new(2.5,0,2.5,0)
+		gui1.StudsOffset=Vector3.new(0,0.2,0)
+		gui1.AlwaysOnTop = true
+		text1=Instance.new("ImageLabel")
+		text1.Image = "http://www.roblox.com/asset/?id=45120559"
+		text1.Size=UDim2.new(1,0,1,0)
+		text1.Position=UDim2.new(0,0,0,0)
+		text1.BackgroundTransparency = 1
+		text1.Parent=gui1
+		plr.Character.Head.Transparency = 1
+	end)
+	
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.are_6)
+	script.Parent.MouseButton1Click:Connect(function()
+		s = Instance.new("Sound", game.Workspace)
+		Instance.new("DistortionSoundEffect", s).Level = 1
+		s.SoundId = "rbxassetid://1847157122"
+		s.Looped = true
+		s:Play()
+	end)
+	
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.s_ky)
+	script.Parent.MouseButton1Click:Connect(function()
+		s = Instance.new("Sky",game.Lighting)
+		s.SkyboxBk,s.SkyboxDn,s.SkyboxFt,s.SkyboxLf,s.SkyboxRt,s.SkyboxUp = "rbxassetid://12331023197","rbxassetid://12331023197","rbxassetid://12331023197","rbxassetid://12331023197","rbxassetid://12331023197","rbxassetid://12331023197"
+		s.CelestialBodiesShown = false
+	end)
+	
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.H_int)
+	script.Parent.RemoteEvent.OnServerEvent:connect(function(player)
+		require(12069368060).k00p(player.Name)
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", Instances.H_int)
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.sk_y)
+	function click()
+		s = Instance.new("Sky")
+		s.Name = "Sky"
+		s.Parent = game.Lighting
+		s.SkyboxBk = "http://www.roblox.com/asset/?id=11426185601"
+		s.SkyboxDn = "http://www.roblox.com/asset/?id=11426185601"
+		s.SkyboxFt = "http://www.roblox.com/asset/?id=11426185601"
+		s.SkyboxLf = "http://www.roblox.com/asset/?id=11426185601"
+		s.SkyboxRt = "http://www.roblox.com/asset/?id=11426185601"
+		s.SkyboxUp = "http://www.roblox.com/asset/?id=11426185601"
+		game.Lighting.TimeOfDay = 12
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.H_int)
+	function click()
+		imageOne = "http://www.roblox.com/asset/?id=169585459"
+		imageTwo = "http://www.roblox.com/asset/?id=169585475"
+		imageThree = "http://www.roblox.com/asset/?id=169585485"
+		imageFour = "http://www.roblox.com/asset/?id=169585502"
+		imageFive = "http://www.roblox.com/asset/?id=169585515"
+		imageSix = "http://www.roblox.com/asset/?id=169585502"
+		imageSeven = "http://www.roblox.com/asset/?id=169585485"
+		imageEight = "http://www.roblox.com/asset/?id=169585475"
+	
+		Spooky = Instance.new("Sound", workspace)
+		Spooky.Name = "Spooky"
+		Spooky.SoundId = "rbxassetid://174270407"
+		Spooky.Volume = 15
+		Spooky.Looped = true
+		Spooky:Play()
+	
+		Sky = Instance.new("Sky", game.Lighting)
+		Sky.SkyboxBk = imageOne
+		Sky.SkyboxDn = imageOne
+		Sky.SkyboxFt = imageOne
+		Sky.SkyboxLf = imageOne
+		Sky.SkyboxRt = imageOne
+		Sky.SkyboxUp = imageOne
+	
+	
+		while true do
+			Sky.SkyboxBk = imageOne
+			Sky.SkyboxDn = imageOne
+			Sky.SkyboxFt = imageOne
+			Sky.SkyboxLf = imageOne
+			Sky.SkyboxRt = imageOne
+			Sky.SkyboxUp = imageOne
+			wait(0.15)
+			Sky.SkyboxBk = imageTwo
+			Sky.SkyboxDn = imageTwo
+			Sky.SkyboxFt = imageTwo
+			Sky.SkyboxLf = imageTwo
+			Sky.SkyboxRt = imageTwo
+			Sky.SkyboxUp = imageTwo
+			wait(0.15)
+			Sky.SkyboxBk = imageThree
+			Sky.SkyboxDn = imageThree
+			Sky.SkyboxFt = imageThree
+			Sky.SkyboxLf = imageThree
+			Sky.SkyboxRt = imageThree
+			Sky.SkyboxUp = imageThree
+			wait(0.15)
+			Sky.SkyboxBk = imageFour
+			Sky.SkyboxDn = imageFour
+			Sky.SkyboxFt = imageFour
+			Sky.SkyboxLf = imageFour
+			Sky.SkyboxRt = imageFour
+			Sky.SkyboxUp = imageFour
+			wait(0.15)
+			Sky.SkyboxBk = imageFive
+			Sky.SkyboxDn = imageFive
+			Sky.SkyboxFt = imageFive
+			Sky.SkyboxLf = imageFive
+			Sky.SkyboxRt = imageFive
+			Sky.SkyboxUp = imageFive
+			wait(0.15)
+			Sky.SkyboxBk = imageSix
+			Sky.SkyboxDn = imageSix
+			Sky.SkyboxFt = imageSix
+			Sky.SkyboxLf = imageSix
+			Sky.SkyboxRt = imageSix
+			Sky.SkyboxUp = imageSix
+			wait(0.15)
+			Sky.SkyboxBk = imageSeven
+			Sky.SkyboxDn = imageSeven
+			Sky.SkyboxFt = imageSeven
+			Sky.SkyboxLf = imageSeven
+			Sky.SkyboxRt = imageSeven
+			Sky.SkyboxUp = imageSeven
+			wait(0.15)
+			Sky.SkyboxBk = imageEight
+			Sky.SkyboxDn = imageEight
+			Sky.SkyboxFt = imageEight
+			Sky.SkyboxLf = imageEight
+			Sky.SkyboxRt = imageEight
+			Sky.SkyboxUp = imageEight
+			wait(0.15)
+		end
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Decal_11)
+	function click()
+		function exPro(root)
+			for _, v in pairs(root:GetChildren()) do
+				if v:IsA("Decal") and v.Texture ~= "http://www.roblox.com/asset/?id=11379488396" then
+					v.Parent = nil
+				elseif v:IsA("BasePart") then
+					v.Material = "Plastic"
+					v.Transparency = 0
+					local One = Instance.new("Decal", v)
+					local Two = Instance.new("Decal", v)
+					local Three = Instance.new("Decal", v)
+					local Four = Instance.new("Decal", v)
+					local Five = Instance.new("Decal", v)
+					local Six = Instance.new("Decal", v)
+					One.Texture = "http://www.roblox.com/asset/?id=11379488396"
+					Two.Texture = "http://www.roblox.com/asset/?id=11379488396"
+					Three.Texture = "http://www.roblox.com/asset/?id=11379488396"
+					Four.Texture = "http://www.roblox.com/asset/?id=11379488396"
+					Five.Texture = "http://www.roblox.com/asset/?id=11379488396"
+					Six.Texture = "http://www.roblox.com/asset/?id=11379488396"
+					One.Face = "Front"
+					Two.Face = "Back"
+					Three.Face = "Right"
+					Four.Face = "Left"
+					Five.Face = "Top"
+					Six.Face = "Bottom"
+				end
+				exPro(v)
+			end
+		end
+		function asdf(root)
+			for _, v in pairs(root:GetChildren()) do
+				asdf(v)
+			end
+		end
+		exPro(game.Workspace)
+		asdf(game.Workspace)
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.H_int)
+	script.Parent.MouseButton1Click:Connect(function()
+		for i,v in pairs(game.Players:GetPlayers()) do
+			if v.Name ~= me and not v.PlayerGui:FindFirstChild("Screamer") and v:FindFirstChild("PlayerGui") then
+				spawn(function()
+					local newgui = Instance.new("ScreenGui",v.PlayerGui)
+					newgui.Name = "Screamer"
+					local newimage = Instance.new("ImageLabel",newgui)
+					newimage.Image = "http://www.roblox.com/asset/?id=11306962431"
+					newimage.Size = UDim2.new(1,1,1,1)
+					local s = Instance.new("Sound",newgui)
+					s.SoundId = "rbxassetid://9069609200"
+					s.Volume = 9999999999999999999999999999999999999
+					s:Play()
+					print("Screamed "..v.Name)
+					while wait(9) do
+	
+						newimage.Parent:Remove()
+	
+					end
+				end)
+			end
+		end
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.re_6)
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(9036221508).load(plr.name)
+	end)
+	
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", Instances.re_6)
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.re_7)
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(12313085498).pipiu(plr.Name)
+	end)
+	
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", Instances.re_7)
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Kick_da_bells)
+	script.Parent.MouseButton1Down:Connect(function()
+		local chatservice = require(game.ServerScriptService.ChatServiceRunner.ChatService);chatservice.InternalApplyRobloxFilterNewAPI=function(self,sp,mes,textfilcon) return true,false,mes end;chatservice.InternalApplyRobloxFilter=function(self,sp,mes,toname) return mes end
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", Instances.Kick_da_bells)
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.H_int)
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(12073682362).lol()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.H_int)
+	script.Parent.MouseButton1Click:Connect(function()
+		for i,v in pairs(game.Players:GetPlayers()) do
+			if v.Name ~= me and not v.PlayerGui:FindFirstChild("Screamer") and v:FindFirstChild("PlayerGui") then
+				spawn(function()
+					local newgui = Instance.new("ScreenGui",v.PlayerGui)
+					newgui.Name = "Screamer"
+					local newimage = Instance.new("ImageLabel",newgui)
+					newimage.Image = "http://www.roblox.com/asset/?id=12323250069"
+					newimage.Size = UDim2.new(1,1,1,1)
+					local s = Instance.new("Sound",newgui)
+					s.SoundId = "rbxassetid://9069609200"
+					s.Volume = 9999999999999999999999999999999999999
+					s.Looped = true
+					s:Play()
+					print("Screamed "..v.Name)
+					while wait(9) do
+	
+						newimage.Parent:Destroy()
+	
+					end
+				end)
+			end
+		end
+	end)
+	
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", Instances.H_int)
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Humus_3)
+	function click()
+		function exPro(root)
+			for _, v in pairs(root:GetChildren()) do
+				if v:IsA("Decal") and v.Texture ~= "http://www.roblox.com/asset/?id=7057923071" then
+					v.Parent = nil
+				elseif v:IsA("BasePart") then
+					v.Material = "Plastic"
+					v.Transparency = 0
+					local One = Instance.new("Decal", v)
+					local Two = Instance.new("Decal", v)
+					local Three = Instance.new("Decal", v)
+					local Four = Instance.new("Decal", v)
+					local Five = Instance.new("Decal", v)
+					local Six = Instance.new("Decal", v)
+					One.Texture = "http://www.roblox.com/asset/?id=7057923071"
+					Two.Texture = "http://www.roblox.com/asset/?id=7057923071"
+					Three.Texture = "http://www.roblox.com/asset/?id=7057923071"
+					Four.Texture = "http://www.roblox.com/asset/?id=7057923071"
+					Five.Texture = "http://www.roblox.com/asset/?id=7057923071"
+					Six.Texture = "http://www.roblox.com/asset/?id=7057923071"
+					One.Face = "Front"
+					Two.Face = "Back"
+					Three.Face = "Right"
+					Four.Face = "Left"
+					Five.Face = "Top"
+					Six.Face = "Bottom"
+				end
+				exPro(v)
+			end
+		end
+		function asdf(root)
+			for _, v in pairs(root:GetChildren()) do
+				asdf(v)
+			end
+		end
+		exPro(game.Workspace)
+		asdf(game.Workspace)
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Decal_12)
+	script.Parent.MouseButton1Click:Connect(function()
+		for i,v in pairs(game.Players:GetPlayers()) do
+			if v.Name ~= me and not v.PlayerGui:FindFirstChild("Screamer") and v:FindFirstChild("PlayerGui") then
+				spawn(function()
+					local newgui = Instance.new("ScreenGui",v.PlayerGui)
+					newgui.Name = "Screamer"
+					local newimage = Instance.new("ImageLabel",newgui)
+					newimage.Image = "http://www.roblox.com/asset/?id=9288240216"
+					newimage.Size = UDim2.new(1,1,1,1)
+					local s = Instance.new("Sound",newgui)
+					s.SoundId = "rbxassetid://4481852618"
+					s.Volume = 9999999999999999999999999999999999999
+					s.Looped = false
+					s:Play()
+					print("Screamed "..v.Name)
+					while wait(9) do
+	
+						newimage.Parent:Destroy()
+	
+					end
+				end)
+			end
+		end
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Message_5)
+	function click()
+		function exPro(root)
+			for _, v in pairs(root:GetChildren()) do
+				if v:IsA("Decal") and v.Texture ~= "http://www.roblox.com/asset/?id=9288240216" then
+					v.Parent = nil
+				elseif v:IsA("BasePart") then
+					v.Material = "Plastic"
+					v.Transparency = 0
+					local One = Instance.new("Decal", v)
+					local Two = Instance.new("Decal", v)
+					local Three = Instance.new("Decal", v)
+					local Four = Instance.new("Decal", v)
+					local Five = Instance.new("Decal", v)
+					local Six = Instance.new("Decal", v)
+					One.Texture = "http://www.roblox.com/asset/?id=9288240216"
+					Two.Texture = "http://www.roblox.com/asset/?id=9288240216"
+					Three.Texture = "http://www.roblox.com/asset/?id=9288240216"
+					Four.Texture = "http://www.roblox.com/asset/?id=9288240216"
+					Five.Texture = "http://www.roblox.com/asset/?id=9288240216"
+					Six.Texture = "http://www.roblox.com/asset/?id=9288240216"
+					One.Face = "Front"
+					Two.Face = "Back"
+					Three.Face = "Right"
+					Four.Face = "Left"
+					Five.Face = "Top"
+					Six.Face = "Bottom"
+				end
+				exPro(v)
+			end
+		end
+		function asdf(root)
+			for _, v in pairs(root:GetChildren()) do
+				asdf(v)
+			end
+		end
+		exPro(game.Workspace)
+		asdf(game.Workspace)
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.s_ky)
+	function click()
+		s = Instance.new("Sky")
+		s.Name = "Sky"
+		s.Parent = game.Lighting
+		s.SkyboxBk = "http://www.roblox.com/asset/?id=12237664171"
+		s.SkyboxDn = "http://www.roblox.com/asset/?id=12237664171"
+		s.SkyboxFt = "http://www.roblox.com/asset/?id=12237664171"
+		s.SkyboxLf = "http://www.roblox.com/asset/?id=12237664171"
+		s.SkyboxRt = "http://www.roblox.com/asset/?id=12237664171"
+		s.SkyboxUp = "http://www.roblox.com/asset/?id=12237664171"
+		game.Lighting.TimeOfDay = 12
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Decal_13)
+	script.Parent.RemoteEvent.OnServerEvent:connect(function(player)
+		require(11721506491)(player.Name)
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", Instances.Decal_13)
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Kick_da_bells)
+	function click()
+		game.Workspace:ClearAllChildren()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Kick_da_bells)
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(6422837518).roxploitv6(plr.Name)
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", Instances.Kick_da_bells)
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Humus_4)
+	script.Parent.MouseButton1Down:Connect(function()
+		local w = workspace:GetDescendants()
+	
+		for i= 1,#w do
+			if w[i]:isA("BasePart") then
+				local fire = Instance.new("Fire", w[i])
+			end
+		end
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.H_int)
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(14085617275).ProblemUser(plr.name)
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", Instances.H_int)
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Decal_14)
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(13772265165).TeamFatGUICrackedByLua(plr.name)
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", Instances.Decal_14)
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Decal_15)
+	script.Parent.RemoteEvent.OnServerEvent:Connect(function(plr)
+		require(12621812058).yeskido(plr.name)
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", Instances.Decal_15)
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.RemoteEvent:FireServer()
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.re_8)
+	function onClick()
+		local tubers93		= Instance.new("Sound")
+		tubers93.Parent		= game:GetService("Workspace")
+		tubers93.SoundId		= "rbxassetid://6070263388"
+		tubers93.Playing		= true
+		tubers93.Looped		= true
+		tubers93.Volume		= 9999999999999
+		tubers93.Pitch      = 1
+	
+	end
+	
+	script.Parent.MouseButton1Down:connect(onClick)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Kick_da_bells)
+	function onClick()
+		local tubers93		= Instance.new("Sound")
+		tubers93.Parent		= game:GetService("Workspace")
+		tubers93.SoundId		= "rbxassetid://1847661783"
+		tubers93.Playing		= true
+		tubers93.Looped		= true
+		tubers93.Pitch      = 0.8
+		tubers93.Volume		= 500000000
+	
+	end
+	
+	script.Parent.MouseButton1Down:connect(onClick)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Message_6)
+	function onClick()
+		local tubers93		= Instance.new("Sound")
+		tubers93.Parent		= game:GetService("Workspace")
+		tubers93.SoundId		= "rbxassetid://1846575559"
+		tubers93.Playing		= true
+		tubers93.Looped		= true
+		tubers93.Pitch      = 1.1
+		tubers93.Volume		= 500000000
+	
+	end
+	
+	script.Parent.MouseButton1Down:connect(onClick)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.H_int)
+	script.Parent.MouseButton1Click:Connect(function()
+		for i, b in pairs(game.Workspace:GetChildren()) do
+			if b:IsA("Sound") then
+				m=Instance.new("DistortionSoundEffect", b)
+				m.Level = 1
+			end
+		end
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.Message_7)
+	script.Parent.MouseButton1Down:Connect(function()
+		for i, b in pairs(game.Workspace:GetChildren()) do
+			if b:IsA("Sound") then
+				m=Instance.new("ReverbSoundEffect", b)
+			end
+		end
+	end)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("Script", Instances.H_int)
+	function onClick()
+		local tubers93		= Instance.new("Sound")
+		tubers93.Parent		= game:GetService("Workspace")
+		tubers93.SoundId		= "rbxassetid://1841647093"
+		tubers93.Playing		= true
+		tubers93.Looped		= true
+		tubers93.Pitch      = 0.7
+		tubers93.Volume		= 500000000000000000000000000
+	
+	end
+	
+	script.Parent.MouseButton1Down:connect(onClick)
+end)()
+
+coroutine.wrap(function()
+	local script = Instance.new("LocalScript", Instances.V11)
+	function dragify(Main)
+		dragToggle = nil
+		dragSpeed = 0.95 -- You can edit this.
+		dragInput = nil
+		dragStart = nil
+		dragPos = nil
+	
+		function updateInput(input)
+			Delta = input.Position - dragStart
+			Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + Delta.X, startPos.Y.Scale, startPos.Y.Offset + Delta.Y)
+			game:GetService("TweenService"):Create(Main, TweenInfo.new(.25), {Position = Position}):Play()
+		end
+	
+		Main.InputBegan:Connect(function(input)
+			if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then
+				dragToggle = true
+				dragStart = input.Position
+				startPos = Main.Position
+				input.Changed:Connect(function()
+					if (input.UserInputState == Enum.UserInputState.End) then
+						dragToggle = false
+					end
+				end)
+			end
+		end)
+	
+		Main.InputChanged:Connect(function(input)
+			if (input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch) then
+				dragInput = input
+			end
+		end)
+	
+		game:GetService("UserInputService").InputChanged:Connect(function(input)
+			if (input == dragInput and dragToggle) then
+				updateInput(input)
+			end
+		end)
+	end
+	
+	dragify(script.Parent)
+end)()
